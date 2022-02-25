@@ -1,0 +1,971 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The foxonian Quakers dunces lyars and slanderers, proved out of George Fox's journal, and other scriblers; particularly B. C. his Quakers no apostates, or the hammerer defeated: amanuensis, as is said, to G.C. (as he sometime wrote himself) Gulielmus Calamus, alias, William Penn. Also a reply to W.C. (a church-man, the Quakers advocate) his Trepidantium malleus intrepidanter malleatus, &amp;c. By Trepidantium Malleus.</title>
+            <author>Trepidantium Malleus.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 114 KB of XML-encoded text transcribed from 51 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67839</idno>
+            <idno type="STC">Wing Y80</idno>
+            <idno type="STC">ESTC R218927</idno>
+            <idno type="EEBO-CITATION">99830478</idno>
+            <idno type="PROQUEST">99830478</idno>
+            <idno type="VID">34930</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67839)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34930)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2023:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The foxonian Quakers dunces lyars and slanderers, proved out of George Fox's journal, and other scriblers; particularly B. C. his Quakers no apostates, or the hammerer defeated: amanuensis, as is said, to G.C. (as he sometime wrote himself) Gulielmus Calamus, alias, William Penn. Also a reply to W.C. (a church-man, the Quakers advocate) his Trepidantium malleus intrepidanter malleatus, &amp;c. By Trepidantium Malleus.</title>
+                  <author>Trepidantium Malleus.</author>
+               </titleStmt>
+               <extent>100 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for W. Marshal at the Bible in Newgate-street, and J. Marshal at the Cible [sic] in Grace-church-street, near Cornhil,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Trepidantium Malleus = Samuel Young; attributed by Wing to Samuel Young.</note>
+                  <note>Text is individual responses to Fox, George. A journal; Coole, Benjamin. The Quakers cleared from being apostates; W.C. Trepidantium Malleus intrepidanter malleatus; and William Penn.</note>
+                  <note>Reproduction of the original at the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>W. C. --  Trepidantium Malleus intrepidanter malleatus --  Early works to 1800.</term>
+               <term>Coole, Benjamin, d. 1717. --  Quakers cleared of being apostates.</term>
+               <term>Fox, George, 1624-1691. --  Journal.</term>
+               <term>Penn, William --  1644-1718 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Louis Goldberg</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Louis Goldberg</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34930:1" rendition="simple:additions"/>
+            <p>THE FOXONIAN <hi rend="blackletterType">Quakers,</hi> DUNCES LYARS and SLANDERERS, Proved out of GEORGE FOX's Journal, And other Scriblers; Particularly <hi>B. C.</hi> his <hi>Quakers no Apoſiates, or the Hammerer Defeated:</hi> Amanu<g ref="char:EOLhyphen"/>ents, as is ſaid, to <hi>G. C.</hi> (as he ſometime wrote himſelf) <hi>Gnii. lmus Cal<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ius,</hi> alias <hi>William Penn.</hi>
+            </p>
+            <p>Alſo a Reply to <hi>W. C.</hi> (a Church-man, the Quakers Advocate) his <hi>Tr<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pidant<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um Mallens intrepid<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tur Ma<gap reason="illegible" resp="#MURP" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>tus,</hi> &amp;c.</p>
+            <q>
+               <bibl>TITUS I. XII.</bibl>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+            </q>
+            <p>By <hi>Trepidanti<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> Mall<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us.</hi>
+            </p>
+            <p>LONDON: Printed for <hi>W. Marſhal</hi> at the <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> and <hi>J. Marſhal</hi> at the <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, 169<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="abusive_preface">
+            <pb facs="tcp:34930:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:34930:2"/>
+            <head>TO HIS <hi>Vnholineſs</hi> WILLIAM PENN, THE ENGLISH POPE.</head>
+            <p>IT is notoriouſly known, when the Old Papiſts, the Fathers of the Quakers, could neither by Scripture or Reaſon, con<g ref="char:EOLhyphen"/>fute the Doctrine of <hi>Luther</hi> and <hi>Calvin,</hi> they invented and publiſht Libe is inſtead of anſwers againſt the Men and their Mo<g ref="char:EOLhyphen"/>rals: Luther <hi>was a Drunkard and had his Familiar:</hi> Calvin <hi>was an Intempe<g ref="char:EOLhyphen"/>rate Man, and would often call for Wine, and they had found the myſte<g ref="char:EOLhyphen"/>ry in his name; he was alſo a ſecond <hi>Lucian,</hi> and by an Anagram, they had ſound this in his name alſo.</hi>
+            </p>
+            <pb n="4" facs="tcp:34930:3"/>
+            <p>That their Children, the Quakers, have taken the like method with the beſt Mini<g ref="char:EOLhyphen"/>ſters and People in the World, is ſo notori<g ref="char:EOLhyphen"/>ous, that it needs no proof; that they have done the like alſo with ſome, that, for their Blaſphemies and other wicked procedures, have deſerted them, is too well known; <hi>Mr. Bugg, Mr. Pennyman, Mr. Keith, Mr. Criſp,</hi> are Madmen, <hi>&amp;c.</hi> I therefore can expect no better Treatment.</p>
+            <p>I am charged, by <hi>B. C.</hi> the Quaker, and by <hi>W. C.</hi> the Churchman, their Advocate.</p>
+            <list>
+               <item>
+                  <hi>1. With Love-Melancholly, and what Conſeſſions I made on that Subject.</hi>
+               </item>
+               <item>
+                  <hi>2. With being clapt up in a Mad<g ref="char:EOLhyphen"/>houſe</hi> (BOX)</item>
+               <item>
+                  <hi>3. With high demands for Preach<g ref="char:EOLhyphen"/>ing, and what befell me for it nigh</hi> Briſtol.</item>
+            </list>
+            <p>To all which, I Anſwer.</p>
+            <p n="1">
+               <hi>1.</hi> That they are ſtories all Falſe; and I declare, I never beard any ſuch things charged on me by my greateſt Enemies, till I read them in their Libels.</p>
+            <p n="2">
+               <hi>2.</hi> That I will give to any man <hi>Five Pound,</hi> that ſhall prove, that ever I was
+<pb n="5" facs="tcp:34930:3"/>in <hi>Box,</hi> or any ſuch place, <hi>One Hour.</hi>
+            </p>
+            <p n="3">
+               <hi>3.</hi> That I never got much by Preaching, but at <hi>Briſlington,</hi> named, I offer'd to give all their dues to a Miniſter, <hi>10</hi> year Fellow of <hi>Lincoln-Colledge,</hi> but then Poor, if they would employ him, and I freely gave him his Table alſo.</p>
+            <p>Who ſhall regard a Quaker, who tells a ſtory, <hi>That I or my Brother</hi> (for he can<g ref="char:EOLhyphen"/>not tell which) <hi>were found in bed with I know who, by an Officer.</hi> Not I, for I ne<g ref="char:EOLhyphen"/>ver heard the ſtory till now; and to be plain, I believe be neither: That al<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o affirms, <hi>That</hi> Briſtol <hi>Friends,</hi> Steel, <hi>&amp;c. never left the Place of their Publick Wor<g ref="char:EOLhyphen"/>ſhip, unleſs when ſick,</hi> &amp;c. When I ap<g ref="char:EOLhyphen"/>peal to the whole City (particularly the diſappointed Informers) whether, for ſeve<g ref="char:EOLhyphen"/>ral years before King <hi>James</hi>'s Indulgence came out, they could find Men or Women there. That alſo denies, <hi>That the Qua<g ref="char:EOLhyphen"/>kers Bow to any Man, except a few, Corrupted by us, and Reproved by them:</hi> When it is ſo rotorious to all the World. You (their Infallible head) are a great Bower, and ſo a common Idolater; that <hi>B.C.</hi> imitates you his Maſter, and con<g ref="char:EOLhyphen"/>tinueth the Cuſtome, ſince his denial of this,
+<pb n="6" facs="tcp:34930:4"/>to his and the Quakers perpetual ſhame, as ſome of them confeſs.</p>
+            <p>Who ſhall regard what this Church<g ref="char:EOLhyphen"/>man ſays after him, that talks of the Fable of the Ma. Houſe, <hi>&amp;c.</hi> and in ſuch a ſtile, as if be were <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſtning thither, or lately came from thence; <hi>Cur, Yelping Cur, Mr. Woodcock, Goodman Gooſe,</hi> &amp;c. this is no later but amongſt Children Young and Old: Whether, You Sir, were the A<gap reason="illegible" resp="#MURP" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>r of the <hi>Quakers no Apoſtates,</hi> or helper to the materials (or rather immateri<g ref="char:EOLhyphen"/>als) of that <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or only the Licenſer, or Approver, m<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n think as they ſee cauſe; no Book muſt <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> without couſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t; thus the Lords Maſſage is ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>opt, curtail'd or chang<g ref="char:EOLhyphen"/>ed, ſince i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pl<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſed you to ſet up Eccleſi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtical Courts, and make Canons to try the Light by.</p>
+            <p>What if I ſhould have affirmed ſtories, perhaps too true, of friend <hi>Green</hi> of <hi>Colcheſter,</hi> that <hi>Cleveland</hi> ſpeaks of, that bugger'd a Mare; I had been guilty of too great caſhneſs.</p>
+            <q>
+               <lg>
+                  <l>Help, <hi>Woodcock, Fox and Naylor,</hi>
+                  </l>
+                  <l>For our Friend <hi>Green</hi>'s a Stallion;</l>
+                  <l>Alas what hope of converting the Pope,</l>
+                  <l>When the Quaker turns Italian.</l>
+               </lg>
+               <pb n="7" facs="tcp:34930:4"/>
+               <lg>
+                  <l>And that in good time of <hi>Chriſtmas,</hi>
+                  </l>
+                  <l>Which tho' our Friends have damn'd all</l>
+                  <l>Yet when did we hear, of a curs'd Cavileer,</l>
+                  <l>E'er play'd ſuch a <hi>Chriſtmas</hi> gambal?</l>
+               </lg>
+               <lg>
+                  <l>But thus our matters teach us,</l>
+                  <l>The intent being well directed,</l>
+                  <l>Tho' the Devil trapan, the <hi>Adamical</hi> Man,</l>
+                  <l>The Saint ſtands uninfected, <hi>&amp;c.</hi>
+                  </l>
+               </lg>
+            </q>
+            <p>Had your Friends and Advocates theſe ſtories of me by Revelation? as the two friends that came to <hi>Henry Windor</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>d of the murther of his Child, and that the Spirit ſhould appear in the Court before the Judge, which proving falſe, were impri<g ref="char:EOLhyphen"/>ſoned, <hi>&amp;c.</hi> Is it true, that in <hi>Penſilvania</hi> ſome have been put to death on friends <hi>Spirit of Diſcerning?</hi> When Chriſt was Crucified, had you been there, had you not told five falſe ſtories to their one? <hi>B. C.</hi> talks of my <hi>Learning,</hi> and that I am now the <hi>Champion of the Cauſe; that my Book was handed up and down the Ci<g ref="char:EOLhyphen"/>ty as an unanſwerable Book:</hi> I doubt
+<pb n="8" facs="tcp:34930:5"/>not but you thought it unanſwerable from the time you ſaw it; and I thank your ſcribe (as is ſaid) for contributing his beſt help to prove it to be ſo, though you were plea<g ref="char:EOLhyphen"/>ſed (unaskt) lately to ſend me word, <hi>You had no hand in the Book;</hi> yet your ſo<g ref="char:EOLhyphen"/>phiſtry is ſo great and abominable, I can<g ref="char:EOLhyphen"/>not underſtand you. <hi>Such a man was Drunk,</hi> ſaid a friend, when found to be falſe, <hi>yea with paſſion,</hi> hath been the a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſn<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er, <hi>&amp;c.</hi> ſuch Tricks are often among the Perfect ones.</p>
+            <p>You have lately, to ſerve aturn, declared, <hi>That you believed Imputed Righteouſ<g ref="char:EOLhyphen"/>neſs in the ſenſe we plead for; the Bo<g ref="char:EOLhyphen"/>dy of Chriſt that was cruciſi'd, Roſe again, and is circumſcrib'd in Heaven;</hi> That <hi>there ſhall be a Reſurrection of the ſame Body laid in the Grave; that you believe 1</hi> Cor. <hi>15.20, 21. in a li<g ref="char:EOLhyphen"/>teral ſenſe, without an Allegory,</hi> when it was proved upon you, <hi>you had Printed the contrary,</hi> You made anſwer <hi>That was againſt Mens Relying on this,</hi> &amp;c. as I had it from that good Miniſter to whom, with others, you ſaid all this.</p>
+            <p>Oh! How deceitful are Sinleſs Men? <hi>Goldney</hi> (that Creature in the ſhape of a
+<pb n="9" facs="tcp:34930:5"/>man) lately deny'd he ſaid <hi>this</hi> and <hi>that</hi> of ſuch a place; when proved on him at my Lodgings, ſaid, <hi>I did not name the place, though I pointed to it and ſpoke of it;</hi> like him that ſaid, <hi>George Fox</hi> never ſaid, <hi>He was the Son of God;</hi> which when proved, ſaid, No, his words were, <hi>I am the Son of God.</hi> But there is no end of this Villany.</p>
+            <p>No Papiſt ſhall Lye or Equivocate more for the Church, than the greateſt Quakers for the Light; You having reſuſed the pro<g ref="char:EOLhyphen"/>poſals for a meeting, to conſider my Que<g ref="char:EOLhyphen"/>ſtions, and not owning the late Reply, I purpoſe to trouble you no more.</p>
+            <p>Pardon me that I begin with <hi>George Fox's</hi> Journal, a new Folio, Printed lately, ſince his death, and your large Preface; if I prove him a Lyar, <hi>&amp;c.</hi> your Cauſe falls to the ground, for be was your firſt Apoſtle, or rather Deceiver: I doubt as you do not, ſo you cannot believe the Fables you relate of him.</p>
+            <p>Some think, You Sir, in another diſguiſe, to be the Author of the book <hi>W. C. Willi<g ref="char:EOLhyphen"/>am Calamus;</hi> I fear it is ſo, I hope it is not; if not, I queſtion not but you know him; I appeal alſo to you, whether the de<g ref="char:EOLhyphen"/>ſign
+<pb n="10" facs="tcp:34930:6"/>of my <hi>Reprimand</hi> were to anſwer both Papers, as be ſaid, when I never ſaw the firſt, till I finiſht my <hi>Reprimand,</hi> and then put in a few lines about Cato, <hi>&amp;c.</hi> or not.</p>
+            <p n="1">
+               <hi>1.</hi> To prove <hi>G. Keith</hi> no Apoſtate, tho' very Erroncous, and proved the contrary from his charge of Election, <hi>&amp;c. Then,</hi>
+               <list>
+                  <item>
+                     <hi>1.</hi> The Arminians in their Church are Apoſtates too, which muſt not be granted.</item>
+                  <item>
+                     <hi>2.</hi> Then the New Church of <hi>England</hi> is an Apoſtate Church from her Doctrine, Diſcipline and Manners; which I have done at large, The <g ref="char:V">Ʋ</g>nion with <hi>Rome,</hi> &amp;c.</item>
+               </list>
+            </p>
+            <p>Is this an anſwer to ſay <hi>I am no Armi<g ref="char:EOLhyphen"/>nian?</hi> What then? Are ſuch as be, Apo<g ref="char:EOLhyphen"/>ſtates? <hi>You are an Ungrateful Wretch thus to reflect on the</hi> Church of England; What if I were? my Argument leads me to it; I am provoak'd to it; yet the New Church I reflected on; my work lay not ſo much with them that own her Doctrine or Old Diſcipline, that keep from the Lords Table, Men Ignorant, Scandalous, Con<g ref="char:EOLhyphen"/>tentious, that uſe not the new uninjoyn'd Cercmonies, lowing to the High Altar, <hi>&amp;c.</hi> What is be, that writing of Reprola<g ref="char:EOLhyphen"/>tion, could not diſtinguiſh betweens <hi>Non
+<pb n="11" facs="tcp:34930:6"/>poſſibile,</hi> and a <hi>Non futurum?</hi> Who ſays, God makes any mans Salvation im<g ref="char:EOLhyphen"/>poſſible? others, beſides <hi>G. Keith,</hi> have denied it: God hath made my being una<g ref="char:EOLhyphen"/>ble to flee, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>non poſſibile</hi> (naturally) but ne'er ordain'd my being born in <hi>Con<g ref="char:EOLhyphen"/>ſtantinople</hi> ſo; be made it a <hi>non futu rum:</hi> ſo of Chriſts Legs not broken, he made it not an impoſſible thing, but a thing not future.</p>
+            <p n="2">
+               <hi>2.</hi> My deſign was to reprove him, for favouring the <hi>Foxonian</hi> Quakers, whom I proved to be <hi>Blaſphemers, Impoſters, &amp;c.</hi> by proofs not commonly known, there<g ref="char:EOLhyphen"/>fore I intituled my Book a <hi>Reprimand,</hi> not a Vindication; I dare appeal to you whether things are not ſo, and therefore ſuch is be; as if unparaled Lying, Rudeneſs and Impertenencies had contended, which ſhould make his Reply moſt Infamous.</p>
+            <p>To all this account of the <hi>Foxonian Quakers,</hi> he replies, without attempting to vindicate them, <hi>We are Fools.</hi>— and be bath ſound me, I thank him; very good Company; worthy good men of his own communion, and zealous for it too, as Mr. <hi>Bugg</hi> and Mr. <hi>Snake,</hi> for ſo I us'd to callinm, ſeeing he puts not his name to
+<pb n="12" facs="tcp:34930:7"/>his book as I do not to mine, yet all know the Authors. Mr. <hi>Keith's being my Tutor,</hi> I laugh at it; I ſpeak it without vanity, and I ſuppoſe be knows it, be need be no more my Tutor, than I his; nothing is more evident to me, that <hi>W. C.</hi> wants not only a Tutor lut Schoolmaſter, to teach him to make True Latin and Verſe, as the after account will prove; I take him to be a man of no True Learning, though a man of ſome wit, only childiſh terms and nauſeous phraſes ſometimes ſpoils that too; the broken Latin Sir, locks like yours, who have little knowledge of that Tongue, leſs of the Greek, though you once would venture upon a criticiſm, forſooth, with <hi>Mr. Faldo,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which occaſions a little merriment, there are that know your Ex<g ref="char:EOLhyphen"/>cellency lies not that way, lut in ſome other parts of Learning, Politicks, Hiſtory and Theology.</p>
+            <closer>
+               <signed>Thine in the Light, without the Outward Name.</signed>
+            </closer>
+         </div>
+         <div type="essay">
+            <pb n="13" facs="tcp:34930:7"/>
+            <head>THE FOXONIAN <hi rend="blackletterType">Quakers,</hi> DUNCES, LYARS and SLANDERERS; Proved out of <hi>George Fox's</hi> Journal, <hi>&amp;c.</hi>
+            </head>
+            <p>PREPARE thy Ears, <hi>Reader,</hi> to hear Legions inſtead of Hi<g ref="char:EOLhyphen"/>ſtory, and Fables, as prodigi<g ref="char:EOLhyphen"/>ous as thoſe in Father <hi>Creſſy's Church-Hiſtory,</hi> both fit to be lookt into theſe Winter Evenings, when Stories are moſt acceptable for Merriments ſake: <hi>Mabomet</hi> was but little skill'd in this
+<pb n="14" facs="tcp:34930:8"/>trick when on the back of his <hi>Elborae</hi> he rode up to Heaven, receiv'd the Law, and came back again: By the way, I have it from good hands, that Dr. <hi>Pocock</hi> averr'd, <hi>That the ſtory of the Dove in his Bar, was a Fables, that be found the Turks knew nothing of it; and that</hi> Grotius' <hi>confeſt to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> he look up the ſtory only oncommon ſome.</hi>
+            </p>
+            <p>
+               <hi>Creſſey</hi> makes no bones of Miracles by a Parentheſis <hi>(Who was raiſed from the Dead) Jacob Beoman</hi> and <hi>Muggle<g ref="char:EOLhyphen"/>ton,</hi> had their Lying Wonders, and all to prove their contrary Meſſages from God, foretold 2 <hi>Theſſ.</hi> 2.9. But the greateſt wonder was, That theſe Im<g ref="char:EOLhyphen"/>poſtors were regarded; a Diſtempe<g ref="char:EOLhyphen"/>red Body and Mind, may make Men imagine ſtrange things A late Au<g ref="char:EOLhyphen"/>thor of more wit than Honeſty, in his <hi>Intereſt of Reaſon in matters of Religion;</hi> ſeems much to doubt, <hi>When or</hi> M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ho<g ref="char:EOLhyphen"/>met <hi>knew himſelf to le<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an Impoſter, but having the Falling-Sickneſs, did think the Angel</hi> Gabriel <hi>did appear to him,</hi> &amp;c. What ſhall we then think of the ſtory of <hi>Sergius</hi> the Monk, and his Indoctri<g ref="char:EOLhyphen"/>nating his Young Pupil, who never
+<pb n="15" facs="tcp:34930:8"/>knew Letters? For Popiſh Miracles, I believe the <hi>Roſary,</hi> ſcattered up and down at <hi>Hounſlow-Heath</hi> (where only King <hi>James</hi> appear'd as a Man of Va<g ref="char:EOLhyphen"/>lour) did more good againſt Popery, than all the Learned Tracts of Biſhop <hi>Tillotſon,</hi> and Biſhop <hi>Saillingfleet,</hi> tho' all were as gravely <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>old as <hi>Fox</hi>'s Jour<g ref="char:EOLhyphen"/>nal, <hi>full of Hereſies, Lying Wonders done in a Corner, Revilings;</hi> what paſſa<g ref="char:EOLhyphen"/>ges were for <hi>Oliver</hi> and againſt the <hi>Stuarts,</hi> are left out; ſo thoſe words, <hi>G. F. the Son of God:</hi> Did not the Pro<g ref="char:EOLhyphen"/>phets words continue the ſame in all Changes? yet this was the man who was call'd, as <hi>Simon Magus, The Migh<g ref="char:EOLhyphen"/>ty Power of God;</hi> but his Wickedneſs was ſo great in pretending to bring <hi>contrary Meſſages from the Lord,</hi> that Thouſands of Quakers abhorr'd and diſown'd him as a Deceiver, <hi>&amp;c.</hi>
+            </p>
+            <p>Mr. <hi>Penn,</hi> in his large Preface, ſays, <hi>The Quakers declar'd, a Perfection from Sin, but held not a Perfection in Wiſdome and Glory in this Life:</hi> Well, Friends had once no Sin, whatever they have of late; the Ranters, from whom they came and derived ſome pure Principles,
+<pb n="16" facs="tcp:34930:9" rendition="simple:additions"/>thought Drunkenneſs no ſin, nor Un<g ref="char:EOLhyphen"/>cleanneſs, for there could be no <hi>Adul<g ref="char:EOLhyphen"/>tery</hi> among thoſe old Friends, for <hi>Adulterium quaſi ad alterum; and that was impracticable among them, for they were Corpus <g ref="char:V">Ʋ</g>num.</hi>
+            </p>
+            <p>But Oh! the Wonderful Humility and Modeſty of Mr. <hi>Penn,</hi> that Con<g ref="char:EOLhyphen"/>feſſeth, <hi>They be not ſo Wiſe and Glorious as they in Heaven:</hi> No truly, not many of them ſo wiſe as thoſe accounted here on Earth; not Wiſe, but Other<g ref="char:EOLhyphen"/>wiſe.</p>
+            <p>Mr. <hi>Penn</hi> tells us, G. Fox <hi>on a high Mountain in</hi> York-ſhire, <hi>had a Viſion, He ſaw People as thick as motes in the Sun, that ſhould in time be brought home to the Lord: Many,</hi> ſaith he, <hi>had Con<g ref="char:EOLhyphen"/>vincements, who are now at Reſt,</hi> Tho<g ref="char:EOLhyphen"/>mas Salthouſe, James Naylor, <hi>&amp;c.</hi> Well, whoever had Convincements, it is doubted, by Thouſands of Qua<g ref="char:EOLhyphen"/>kers and others, whether <hi>William Penn</hi> had ever any Convincements, except of the Folly of this People, and how ſoon he might take the Chair, when <hi>George</hi> was gone, and play King or Pope with this Ignorant Tribe: What
+<pb n="17" facs="tcp:34930:9"/>is <hi>James Naylor</hi> honoured by him; that unheard of piece of Blaſphemy, whom many Quakers cannot endure to hear of? I knew a Man born in the ſame Town with him, who told me, <hi>How all began with Spiritual Pride; after be was a great Repeater of Sermons, be would hear no more, he knew enough,</hi> &amp;c. What if Friends ſhould come to Mr. <hi>Penn,</hi> or <hi>Benjamin Coole,</hi> or others, in the name of the Lord, to lay aſide their Perriwigs; would they obey? No, no, but laugh at it: How can they then expect that others ſhould on theſe pre<g ref="char:EOLhyphen"/>tences, throw away the Ordinances of Chriſt? <hi>Richard Richardſon,</hi> a great Quaker, hath written a Book againſt Perriwigs, how Condemned they are by <hi>Sober Heathens, Antient Chriſtians,</hi> &amp;c. at laſt he tells us, <hi>How</hi> John Mulliner, <hi>(a Friend) about</hi> Northampton, <hi>was made to leave that Trade, and to burn one of his Porriwigs before his Servants; that</hi> John Hall, <hi>a great Man ſitting in a Meeting, was ſhaken by the Lords Power, and ſo pull'd off his Perriwig, and threw it away:</hi> Now were not theſe Inſpired? <hi>What means the New Colledge to teach In<g ref="char:EOLhyphen"/>ſpired
+<pb n="18" facs="tcp:34930:10"/>Perſons to Preach,</hi> &amp;c. Did not our Preface-Maker threaten Frends, <hi>If ſuch orders of his were not obſerved, to break their Meetings,</hi> though he ſeems to write ſo zealouſly for the ſufficiency of the Light in Man, <hi>&amp;c.</hi>
+            </p>
+            <div type="part">
+               <head>A Collection out of <hi>G. Fox</hi>'s Journal.</head>
+               <p>WE have here the account that <hi>Margaret Fell,</hi> the wiſe of <hi>G. Fox</hi> (once of Judge <hi>Foll</hi>) gives of her Hus<g ref="char:EOLhyphen"/>band, it is laden with Impertinencies, and little circumſtances of his Life.— At laſt ſhe tells us, How when he came into the Steeple-Houſe, ſhe hearing him, cryed out, <hi>We are all Theeves, we are all Theeves, we have taken the Scrip<g ref="char:EOLhyphen"/>tures in words, and have known nothing of them in our ſelves: That</hi> Thomas Salthouſe <hi>followed him:</hi> I knew him, he was an Idle Vagrant; never did work, that they were at laſt weary of him, and would have him work; once I met him, and he urged that of <hi>Paul</hi> againſt us, <hi>theſe hand have miniſtred to my Neceſſities:</hi> ſo would <hi>Fox</hi> ſay, yet neither of them would work: Who would regard ſuch ſhameleſs Beaſts?</p>
+               <q>
+                  <pb n="19" facs="tcp:34930:10"/>
+                  <bibl>G. Fox's Journal.</bibl>
+                  <p>
+                     <hi>I had a Gravity and Studiouſneſs of mind, when young, above others.—I took care not to eat or drink much.—I kept to Yea and Nay; my Relations were about to make a Prieſt of me, but they made a Shoomaker of me; when I was with my Maſter, he was Bleſſed, when I left him he broke.—People generally loved me for my Innocency and Honeſty.—I ſaw ma<g ref="char:EOLhyphen"/>ny poſſeſſed not what they profeſſed.—I was a long time almoſt in deſpair; and I walked many Nights by my ſelf: Prieſt</hi> Stephen <hi>wondred at my Anſwer, why Chriſt ſaid,</hi> My God, My God, why haſt thou Forſaken me: <hi>I ſaid, He dyed for the Sins of Men, and dyed not as God: The Prieſt ſaid, it was a good full anſwer, ſuch <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s be had not heard; afterwards be would highly applaud me, and what I ſaid to him on the weck days, he would Preach in Firſt Days, for which I did not like him.</hi>—I <hi>was ſo dryed with Sorrow, that they could not get one drop of Blood from my Arm or Head.— I would not go to Marriages, but Viſit after, and if they were poor, I would give them ſome Mo<g ref="char:EOLhyphen"/>ney,</hi> &amp;c.</p>
+               </q>
+               <pb n="20" facs="tcp:34930:11"/>
+               <p>They that ſet up for Great Perſons, often tell us of the Convictions of their Childhood, though nothing to what others have known that keep ſilence: I ſuppoſe his Dulneſs made his Parents make a Shoomaker of him, when they ſaw he was not fit to be a Prieſt; like him that ſaid to the maker of an Image of Chriſt, of a knotty piece of Wood that would not do, <hi>If you cannot make a God of him, make a Devil of him.</hi> Well, But why followed he not his Trade? I believe, if the Truth were known, he was ſuch a Blockhead he could never make one pair of Shoos well, and if his Shoos were no better than his Teachments, he could not live by that Trade, and ſo tryed another; I believe not a word of the ſtory of Mr. <hi>Ste<g ref="char:EOLhyphen"/>phens,</hi> a Child of 10 year old might anſwer as well.</p>
+               <p>Well, <hi>George</hi> was a Mad-man too, was in Deſpair; he was then tempted to commit ſin; he tells not what; was here not Love Melancholy? No doubt this poor Shoomaker was Ambitious of the honour and wealth he got by Mar<g ref="char:EOLhyphen"/>ryage and Speaking. I doubt, <hi>Reader,</hi>
+                  <pb n="21" facs="tcp:34930:11"/>whether thou art able to believe, a Miniſter ſhould Preach on the Lords Day, what he got from a Quaker week days, eſpecially ſuch a Notorious Dunce as this, who was not able to expreſs himſelf, but others muſt word his thoughts for him, and ſo is this Book no doubt changed to purpoſe.</p>
+               <p>Now for his Revelations.</p>
+               <p>
+                  <hi>Nigh a Gate, a Conſideration aroſe in me, all Chriſtians are Believers, both Proteſtants and Papiſts; and the Lord opened to me, that if all were Believers, then all were born of God.</hi> Make Senſe of this, or Truth, <hi>Reader,</hi> if thou canſt.</p>
+               <p>
+                  <hi>At another time in the field, the Lord opened to me, That being bred at</hi> Oxford <hi>and</hi> Cambridge, <hi>was not enough to fit a Man to be a Miniſter of Chriſt; and I ſtranged at it: I would take my Bible and go into the Fields and Woods, and told my Friends, It is ſaid you need not that any Man teach you, but as the Anointing teacheth them, and the Lord would teach them himſelf.</hi>
+               </p>
+               <p>
+                  <hi>Then I met with a ſort of People that ſaid, Women bad no Souls; but I told them,</hi> Mary <hi>ſaid, My Soul doth magnify
+<pb n="22" facs="tcp:34930:12"/>the Lord.</hi> Choice Obſervations, <hi>Reader,</hi> and no doubt we have here the choiceſt <hi>flowers</hi> of what he laid up, gathered by Friends.</p>
+               <p>
+                  <hi>When I had theſe openings, many trou<g ref="char:EOLhyphen"/>bles and temptations came upon me; in the Morning I wiſhed for Evening, and in the Evening for Morning; the Openings anſwered one another; many Openings I had of Scripture and the Revelations:</hi> Wonderful Ones no doubt: <hi>I ſat in hollow Trees by day, and walked mourn<g ref="char:EOLhyphen"/>fully by night;</hi> Yet none of us reported, he was in a Mad-houſe at <hi>Box,</hi> &amp;c. <hi>Then, even then, I heard a voice, ſaying, There is one Jeſus Chriſt, who can anſwer to thy condition.</hi> If this were examin'd, perhaps we ſhould be told, this was not vocally but mentally, an inward voice (that is motion) might ſerve the turn. <hi>One</hi> Brown <hi>had Propheſies and Sights of me on his death b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d; and he ſpoke openly of me, and what the Lord would bring forth by me: I prayed, when the houſe ſeemed to ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ke, and they ſaid. It is now as was in the Apoſtles days.</hi> Pe<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> two or three giddy Women <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="23" facs="tcp:34930:12"/>thus prate; and that is enough for a Quakers Miracle.</p>
+               <p>
+                  <hi>I was come up in Spirit through the Haming Sword, into the Paradiſe of God. I knew nothing but Pureneſs, Innocency and Righteouſneſs; ſo that I was come up to the State of</hi> Adam <hi>before be fell, the Creation was opened to me; I was at a ſtand, whether I ſhould practice Phiſick for the good of Mankind, ſeeing the natures and vertues of the Creatures were ſo opened to me. Wonderful Depths were opened to me, beyond what words can declare</hi> p. 10. <hi>All I meet with cannot bear mans coning to</hi> Adam's <hi>ſtate before be fell: Reader,</hi> Tremble at the next Blaſphemy <hi>How then can they bear to hear of man's coming to the meaſure of the fulneſs of Chriſt?</hi> which he before ſaid be did.</p>
+               <p>Obſerve, <hi>Reader,</hi> what Nonſenſe and Impertinencies are in theſe <hi>Openings;</hi> I doubt not, Drunkenneſs and Swea<g ref="char:EOLhyphen"/>ring are no ſins, in compariſon of ſuch belying of God. Whoever ſaid, <hi>It was enough to go</hi> Oxford <hi>to be made a Miniſter.</hi> No, many there, and that come from thence, are too Ignorant to be ſuch; I knew one there, a good
+<pb n="24" facs="tcp:34930:13"/>Schollar that Preacht, that could not tell me <hi>whoſe Wife</hi> Sarah <hi>was, how many Tribes there were.</hi>—I knew another, who when he preacht on 1 <hi>Eccleſ.</hi> 2 be<g ref="char:EOLhyphen"/>gan thus, <hi>Vanity at the firſt was but a lit<g ref="char:EOLhyphen"/>tle imp, but now it is grown to ſuch an ex<g ref="char:EOLhyphen"/>uberant Whale, that it can ſwallow three</hi> Jonas's <hi>at a morſal,</hi> &amp;c. I have heard of one in <hi>Exon</hi> Colledge, coming down late to dine in the Hall, was asked the reaſon, <hi>Oh,</hi> ſaid he, <hi>I was reading the pleaſanteſt ſtory that ever I read in my Life, if it be true;</hi> What ſtory, ſaid they, then he began to tell the ſtory of <hi>Joſeph and his Brethren.</hi>
+               </p>
+               <p>Now Friend <hi>George,</hi> it is opened to me, that it is not enough for a man to be brought up in a Shoomakers-ſhop to be made a Miniſter. <hi>The Lord would teach them,</hi> &amp;c. Some kept to this, and cared not for any mans teaching; but after all, <hi>George</hi> ſets up for a Teacher himſelf, contrary to his firſt ſayings, when <hi>You need not that any man teach you.</hi>— Is none of the Hereticks he had, Detected; for <hi>John</hi> at that time, taught them by his Epiſtle. <hi>George</hi> was <hi>Adam</hi>'s equal for Perfection and
+<pb n="25" facs="tcp:34930:13"/>what Chriſts too? yet the aforenamed <hi>Goldney</hi> (a famous or rather infamous Quaker) among other notorious un<g ref="char:EOLhyphen"/>truths by him and <hi>Wyat,</hi> denyed, <hi>That any Qua<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ers beld Perfection; no not</hi> George Fox <hi>himſelf; for I knew him, ſaid he;</hi> then run on, <hi>Thou art a Lyar, Report, and we will Report; Report, and we will Report.</hi> Had <hi>George</hi> been a Phy<g ref="char:EOLhyphen"/>ſician, none had Cur'd half ſo many as he had kill'd; why had he not acquain<g ref="char:EOLhyphen"/>ted Phyſicians of thoſe Vertues and Operations of the Creatures Opened to him for the good of Mankind? No, no, the Cheat had then ſoon been diſ<g ref="char:EOLhyphen"/>covered: How did Mr. <hi>Penn,</hi> and other Friends, like the Pudding that <hi>George</hi> put Herbs into, <hi>&amp;c.</hi> when they were almoſt choakt with eating it? Truly I believe they had rather have been at a <hi>Friends Spiritual Supper</hi> at <hi>Bri<g ref="char:EOLhyphen"/>ſtol,</hi> who invited ſeveral, all ſat an hour, or more, at the Table, none were helpt, nor did Eat, the meat car<g ref="char:EOLhyphen"/>ried away, <hi>Friends, I invited you to a Spiritual Supper;</hi> which made ſome Qua<g ref="char:EOLhyphen"/>kers-joqne, when one ſaid, <hi>Truly he ſound great refreſhment there:</hi> I could
+<pb n="26" facs="tcp:34930:14"/>prove all, if they dared to face me.</p>
+               <p>On goes <hi>George.</hi>
+               </p>
+               <p>
+                  <hi>The Lord ſaid to me, go to ſuch a Steeple-houſe, and teſtify againſt that Ido'l and the Worſhippers there. — I cured a diſtracted Woman. — Many were cured of Infirmities; and Devils were caſt out. One hearing a Prieſt in a Steeple-houſe, the word of the Lord came to him, doſt thou not know my Servant is in Priſon; ſo he came to me. — One ſaid of me, there was never ſuch a Plant bred in</hi> England. O Phariſaical Vain-glorying! <hi>I was moved of the Lord to put of my Shoos, and to go through the City of</hi> Litchfield, <hi>and cry, Wo to the bloody City of</hi> Litchfield; <hi>I ſaw in the ſtreet, a pool of blood, and my feet were warm; I knew not what it was; but I was told, in</hi> Diocleſian's <hi>time, Thouſands of Chriſtians were there Mar<g ref="char:EOLhyphen"/>tyr'd; ſo I was to go without any ſhoos in their blood.</hi> — Who can believe this Fable? <hi>One ſaid to a Juſtice of Peace, an Angel came in at</hi> Beverly <hi>Church. — It was, ſaid</hi> George. Obſerve the trick, he ſoon got in and went out.</p>
+               <p>
+                  <hi>It was ſtrange to ſee a man come in without a Band.</hi> Bands and Hatbands
+<pb n="27" facs="tcp:34930:14"/>were once condemned by the Infallible Spirit, as well as Lace and Ribonds. — <hi>I cryed, preach freely.</hi> (Did <hi>George</hi> do ſo?) <hi>People were moved by my Groans.</hi> Did he not groan on purpoſe? <hi>I ſaw a Profeſſion without a poſſeſſion.</hi> See how proud the Fool was of a common Gingle going up and down among Ille<g ref="char:EOLhyphen"/>tirate Countrey People. <hi>When they ſaw the man with leathern Breaches come in, the Prieſts would be gone; Terror ſur<g ref="char:EOLhyphen"/>prized the Hippocrites.</hi> Some of them would ſay, <hi>The Hireling fleeth,</hi> but for<g ref="char:EOLhyphen"/>got it was when the Wolf cometh, the <hi>Quaker. I had a Viſion of a Bear and two Maſtiffs that ſhould paſs by me and do me no barm. — which was the Conſtable.</hi> So may we call every idle dream a Viſion from the Lord.</p>
+               <p>
+                  <hi>Meat was ſet before me, as I was about to Eat, the word of the Lord came to me ſaying, Eat not the bread of him that hath an evil eye.</hi> (that is, a thought or mo<g ref="char:EOLhyphen"/>tion aroſe) <hi>Immediately I aroſe from the Table, and eat nothing,</hi> &amp;c.</p>
+               <p>Every Whim was at firſt a word from the Lord, till they miſtook Places, Perſons and Things, and then Folly
+<pb n="28" facs="tcp:34930:15"/>to all men. His Miracles were no more real than Popiſh ones of the <hi>Rood of Grace, Chriſts Blood, the blood of a Duck in a vial,</hi> &amp;c. when he tells of Outward Ordinances, know Reader, the de<g ref="char:EOLhyphen"/>ſign of this Book, is a Lye in this thing; We affirm, That as Food or Phiſick lookt on, handled, taſted, neither kill hunger nor cure pains; ſo the bare talking or knowing of Scripture, will not do without a deep impreſſion on the heart; yet the work of God lies with the head for knowledge, as well as with the Heart for Grace. Muſt Men Experience Scripture, and know it after? They were of old commanded to teach their Children the Law: Chriſt ſaid, <hi>How readeſt thou?</hi> None ſaid, <hi>Theeves, Theeves.</hi>
+               </p>
+               <p>I thought to have gone on to <hi>George</hi>'s Epiſtles, full of Blaſphemy and Falſhood but I grow weary of ſuch ſtuff; and I ſuppoſe ſo doth the Reader too.</p>
+               <p>After this Impoſtor and Falſe Pro<g ref="char:EOLhyphen"/>phet, condemned teaching by Man, but by the Light; he becomes a Teach<g ref="char:EOLhyphen"/>er himſelf; after he diſown'd all Courts himſelf, <hi>The Light was Sufficient,</hi> He
+<pb n="29" facs="tcp:34930:15"/>pretends a word from the Lord to ſet up ſuch Aſſemblies, by them was the Light tryed; thouſands of Quakers ſeeing this <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>are-fac'd Iniquity, hated him for his Hipocriſie. The Author of the <hi>Spirit of the Hat,</hi> cries out, <hi>O Pope<g ref="char:EOLhyphen"/>ry O Prelacy! O Presbytery! This was the thing we condemned in them.</hi> — Mr. <hi>Rogers</hi> wrote ſmartly againſt them, and tells you what a bag of Iniquity Friend <hi>George</hi> was: Whereas <hi>George</hi> call'd Miniſters <hi>Falſe Prophets;</hi> they were, ſtrictly, neither falſe Prophets nor true ones; they were True Teach<g ref="char:EOLhyphen"/>ers, but pretended not to Propheſie. <hi>George Fox,</hi> in another book I have ſeen, calls the <hi>Scripture,</hi> and names <hi>Matthew, Mark, Luke</hi> and <hi>John, Duſt,</hi> &amp;c. <hi>Papers ſent forth for detecting Error,</hi> p. 6.</p>
+               <p>In Epiſtles I lately ſaw, <hi>George Bi<g ref="char:EOLhyphen"/>ſhop</hi> wrote to the King and Parliament, <hi>That the Quakers were Innocent; in no Rebellion not Diſſaffected to him.</hi> Yet he, and <hi>Fox,</hi> and others, curſed the Presbyterians for attempting to bring in the King; and when he came in, they wrote to him of their Love to
+<pb n="30" facs="tcp:34930:16"/>him and Faithfulneſs. <hi>George Fox</hi> would call his Writings, <hi>The word of the Lord, the word of God;</hi> though this was too high for Scripture, only for Chriſt and their words. Mr. <hi>Criſp,</hi> a Reformed Quaker, in his <hi>Babel buil<g ref="char:EOLhyphen"/>ders unmasking themſelves,</hi> hath made a Collection of their Abominable Errors and Blaſphemous Aſſertions, taken out of <hi>B<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>roughs</hi>'s Works.</p>
+               <p>
+                  <hi>That the Sufferings of the Quakers were Greater, and more <g ref="char:V">Ʋ</g>njuſt, than thoſe of Chriſt and the Apoſtles; for t<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oſe,</hi> ſaid he, <hi>ſuffered by Law, and in ſome reſpect, by a due Execution of Law.</hi> p. 279.</p>
+               <p>In another Book he tells the ſtory of <hi>Solomon Eccles,</hi> a great Prophet, a Famous Man, <hi>who burnt on</hi> Tower-hill <hi>His muſical Inſtruments worth about two hundred pounds,</hi> as <hi>Cruiſo</hi> ſays. He was a great <hi>Foxonian;</hi> and after <hi>John Story,</hi> a Quaker, had condemned the Courts <hi>Fox</hi> ſet up, <hi>Solloman Eccles</hi> came to him (as I have had it alſo from a Qua<g ref="char:EOLhyphen"/>ker then preſent deſiring to ſpeak with <hi>John Story,</hi> who craved excuſe, <hi>being very Sick and in conſtant expectati<g ref="char:EOLhyphen"/>on of Death: Tell him,</hi> ſaid one of <hi>Eccles</hi>
+                  <pb n="31" facs="tcp:34930:16"/>his Companions, Solloman Eccles <hi>hath a meſſage to him from the Lord;</hi> when they were admitted he thus ſaid, <hi>O</hi> John Story <hi>thou haſt condemned the Ordinances of</hi> Jeſus Chriſt, <hi>Womens preachings and Womens meetings, the Church and Brethren have bound thee on Earth, and thou art bound in Heaven. — Be reconciled to</hi> George Fox, <hi>who is Gods Friend, and the great Apoſtle of</hi> Jeſus Chriſt, <hi>this is the word of the Lord to thee, This year ſhalt thou dye, becauſe thou haſt taught Rebellion againſt the Living God:</hi> He replyed, as the Quaker preſent told me, <hi>I expell to dye in a few hours; yet I know the Lord ſent you not:</hi> But ſee the Goodneſs of God to detect ſuch Villany; the Man Recovered, and Liv'd four or five year after; now if he had dyed, what a famous Prophet had <hi>Sollomen Eccles</hi> been? Pray prophe<g ref="char:EOLhyphen"/>cy next, Thus ſaith the Lord, <hi>This winter! O this Winter! there ſhall be Snow and Ice; yea, I ſay, Ice and Snow; yet the next Summer, many Flowers ſhall be ſeen in your Gardens; yea, much Corn in your fields, and not only ſo, but much fruit upon your Trees, for ſo it is reveal'd unto
+<pb n="32" facs="tcp:34930:17"/>me, and by this you ſhall know that I am a True Prophet:</hi> But ſuppoſe none of this ſhould be, why then all was underſtood, <hi>not Carnally,</hi> for that is nothing, <hi>but Spiritually:</hi> This Refor<g ref="char:EOLhyphen"/>med Quaker profeſt to me, <hi>No men can underſtand them by their words.</hi>
+               </p>
+               <p>I mention not <hi>George Fox</hi> in his Journal, comparing the beſt of Men with the worſt of Men, the Holy Labo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of Chriſt, to <hi>Baal's <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Sor<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>. <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>das, t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e Devil <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </hi> this is ſo common: Vaſt is the difference between Pr<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aching for hire and taking hire for Preaching: The Prieſts under the Law, liv'd by the Altar, and a good Livelihood they had; can words be plainer than thoſe of St. <hi>P<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>l, As they that waited on the Altar liv'd by the Altar, ſo hath the Lord ordained, that they which Preach the Goſpel ſhould live of the Goſpel,</hi> 1 Cor. 9.6.7. Now, how is a Man ſaid to live on any Employment; but to have a Competency (at leaſt for himſelf and his, and to lay up for wife and Children, and himſelf too, againſt Sickneſs and old Age: The Diſciples
+<pb n="33" facs="tcp:34930:17"/>10 <hi>Mat.</hi> 10. As Labourers were ſo worthy of their Hire, that they were to be provided for by their Hearers; they were forbid to carry Money of their own; the thing is quite contra<g ref="char:EOLhyphen"/>ry to what our Perfectioniſts would drive at; Chriſt worked then Mira<g ref="char:EOLhyphen"/>culouſly, and they were commanded to Truſt Providence.</p>
+               <p>
+                  <hi>Paul</hi> took Wages of ſome Churches, and Robbed them, as we ſay, <hi>I ſhall Rob you, if we take freely;</hi> he told the <hi>Corinthians, He had power to forbear working,</hi> which was enough, <hi>as well as</hi> Barnabas <hi>and other Apoſtles:</hi> If he wrought, he complained of it to them, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ays the fault on them: Muſt we be reviled too, or ſtoned, becauſe he was? But I pray when did <hi>Fox</hi> work? If any ſay, he had much other work; <hi>Paul</hi> had more, <hi>The care of all the Church<g ref="char:EOLhyphen"/>es lay on him: Paul</hi> bid. <hi>Timothy give himſelf wholly to thoſe things; Meditation (or Studying) and Reading.</hi> 1 Tim. 4.13. How many pair of Shoos, I pray did friend <hi>George</hi> make, after he got ſo well by Speaking? He grew Rich, he eat the fat and drank the ſweet, and
+<pb n="34" facs="tcp:34930:18"/>ſo the poor Shoomaker preaches up his Mortification. You ſhall find how much <hi>George</hi> was concern'd at what o<g ref="char:EOLhyphen"/>thers ſaid of him; I have heard of one much concern'd this way, and ask'd one, <hi>What do men ſay of me?</hi> He repli<g ref="char:EOLhyphen"/>ed, <hi>Fools ſay you are a W<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe Man, and Wiſe Men ſay you are a Fool; and I pray which thin<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> you?</hi>
+               </p>
+               <p>This Journal of <hi>G. Fox</hi> is now taught in their Publick Schools, and read in<g ref="char:EOLhyphen"/>ſtead of Scripture in their Families from day to day; This, in a word, is become the Quakers Bible: they often have written againſt our Bible, I now have written againſt theirs: <hi>Jam Su<g ref="char:EOLhyphen"/>mus ergo Pares.</hi> Not only do the follow<g ref="char:EOLhyphen"/>ers of <hi>George Keith</hi> condemn this <hi>Fox,</hi> as a Notorious Deceiver and Impoſtor, but the <hi>Harp-Lane</hi> Quakers diſown his Diſcipline, as the Womens Meeting, <hi>&amp;c.</hi> though they are corrupt, as to his Doctrine about Chriſt. — with the <hi>Grace-church-ſtreet</hi> Quakers, who own both Doctrine and Diſcipline. Well, <hi>G. Fox</hi>'s Wife, once <hi>Margaret Fell,</hi> tho' paſt Child-bearing, <hi>was to have an</hi> Iſaac, the Midwife was ſent for, but nothing
+<pb n="35" facs="tcp:34930:18"/>comes, yet this was the Marryage that was a type of Chriſt and the Church.</p>
+               <p>I commend <hi>George</hi> among all the lyes he tells, he added not this, That they who went to Convert the Pope, according to their expectation, could by Inſpiration ſpeak to him in his own Language: I have not ſo much Chari<g ref="char:EOLhyphen"/>ty to believe that Conſcience or Mo<g ref="char:EOLhyphen"/>deſty kept him from this, but an open Notorious Confutation; Friends how<g ref="char:EOLhyphen"/>ever made bold to whiſper this among themſelves, and have been ſo impudent to tell me ſo. That his followers differ about their ſentiments, concerning the Trinity and Scripture, yet they care not for that, whilſt they all keep to the fundamentals of their Religion, that Men put not of their Hats, nor the Women Kirſey, but both ſay <hi>Thee</hi> and <hi>Thou.</hi> There are about One Hundred Thouſand that have followed him, as has been computed; theſe make Hea<g ref="char:EOLhyphen"/>thens Chriſtians, and Chriſtians Hea<g ref="char:EOLhyphen"/>thens. It is expected when <hi>Muggleton</hi> is dead, his Journal will be Printed alſo, and his propheſies, as ſome of his Diſci<g ref="char:EOLhyphen"/>ples tell us; though <hi>Fox</hi> and he
+<pb n="36" facs="tcp:34930:19"/>damn'd one another as Falſe Prophets times without number.</p>
+               <p>He that would know more of <hi>George Fox</hi>'s Ignorance, Lyes, <hi>&amp;c.</hi> Read his <hi>great myſtery</hi> and <hi>battledore</hi> a large Folio alſo. <hi>They,</hi> the Quakers, <hi>can tell who are are Saints; who are Devils, who Apoſtates, without ſpeaking a word.</hi> He denies, p. 99. <hi>That Chriſt has a Humane Body or a Humane Soul.</hi> Aſſerts plainly, <hi>That the Soul of man is a part of God, that it came from him and goes to him again.</hi> p. 272. <hi>and</hi> p. 99. That Chriſt is not <hi>diſtinguiſht from the Father,</hi> if as <hi>Penn</hi> pleads, he meant <hi>Separate;</hi> then <hi>George,</hi> though Inſpired, was ignorant of words, and in the name of the Lord condemned them that rightly uſed them. <hi>You are,</hi> ſays he p. 114. <hi>conceiv<g ref="char:EOLhyphen"/>ed in ſin;</hi> David <hi>did not ſay, You are, but I was,</hi> — Profoundly anſwered: His anſwer to Dr. <hi>Owen</hi>'s Chatechiſm, is fit only for Laughter.</p>
+               <p>He anſwers <hi>John Gilpin</hi>'s Book, (a book worth reading) of <hi>Quakers bewitch That he was Drunk after he left the Qua<g ref="char:EOLhyphen"/>kers, and a Warrant was out for him;</hi> the uſual Anſwer. Page 244. <hi>The Immor<g ref="char:EOLhyphen"/>tal
+<pb n="37" facs="tcp:34930:19"/>Seed are the Saints, and then they are not Duſt and Aſhes; Abraham</hi> was ſo: In his <hi>Battle-door</hi> we have a large book about <hi>Thou</hi> and <hi>You;</hi> what it is in <hi>Latin, Greek, Hebrew, Syriack, Samaritan, Dutch, German, French, all Languages to me,</hi> ſaith he, <hi>is duſt, who was before all Languages were.</hi> O Blaſphemy! the whole of this Book is a Cheat: this Fool underſtood not Engliſh, much leſs what he wrote of, which was anothers words. He could write Hebrew Let<g ref="char:EOLhyphen"/>ters, and many were hung up in Friends Houſes to make them believe he did all by Revelation; an Ungodly Cheat.</p>
+               <p>I ſhall only propoſe to the Quakers a few Queſtions.</p>
+               <p n="1">1. Seeing the Papiſts pretend to In<g ref="char:EOLhyphen"/>fallibility, Miracles and Propheſies, and the Muggletonians too, why ſhould you be credited more than they? Had any one man of you the gift of Tongues? <hi>George Fox</hi> himſelf, when he was ſent abroad, when in <hi>America</hi> he ſent for one Emperor and two Kings to Preach to them, they underſtood not his Engliſh, he was a
+<pb n="38" facs="tcp:34930:20"/>barbarian to thoſe barbarians: if you ſay the Teſtimony was inward. — I pray be ſure keep it there, trouble not us with it.</p>
+               <p n="2">2. Can any Atheiſt or Papiſt ſpeak worſe of the Holy Scriptures than you? It is well known, <hi>Sam. Fiſher</hi> ſaid, <hi>They were not capable of being but a Lesbian Rule, a noſe of wax;</hi> and askt this queſti<g ref="char:EOLhyphen"/>on, <hi>How could any on: be Infallible, that they were not a cunning deviſed ſable?</hi> I have not ſeen his works in Folio theſe many years; but I remember ſuch playing on this ſubject (and that in verſe too) as is not fit to be named.</p>
+               <p n="3">3. How abominable is it in Diſpu<g ref="char:EOLhyphen"/>tations and Diſcourſe, to uſe words, <hi>Janus</hi> like, with two faces or a double ſence, one to quiet an Objecter, ano<g ref="char:EOLhyphen"/>ther to ſatisfie Friends privately? You are good at <hi>Hocus Pocus</hi> (the old phraſe from the Papiſts, <hi>Hoc eſt Corpus,</hi> turning a Wafer into a Body) yet you will call a man Lyar if he repeat your ſenſe, if not exact words; ſhould you ſay a Shilling, and I repeat it 12 pence, if to ſe<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> turn, you would ſay you never ſaid ſo: How often do Friends
+<pb n="39" facs="tcp:34930:20"/>anſwer to what is not asked, and evade what is? You ſometime ask us, What Scripture for Abſolute and Relative? yet uſe ſuch words your ſelves.</p>
+               <p n="4">4. How much are you unlike the People you were? <hi>Muggleton</hi> long ſince curſed you, <hi>That your Viſions and Revelations ſhould fail: Bleſſed,</hi> ſaid you of old for your Quakings, <hi>are they that tremble at my Word;</hi> yet ſome ſaid, <hi>The Devil 'trembled in them:</hi> What is he bleſſed then? Now you tell us, <hi>That as when a man taketh Phyſick, he is much diſordered in his Body till his diſtemper be gone; ſo you, till ſin was purged out:</hi> What have none that turn Quakers, for almoſt forty year paſt, any ſin in them to be purged out, as well as the firſt Quakers? Nothing was more com<g ref="char:EOLhyphen"/>mon at firſt then this Scripture, <hi>They ſhall not teach every man his Neighbour, ſaying, know the Lord, for they ſhall all know me from the greateſt to the leaſt.</hi> yet <hi>G. Fox</hi> taught them every where; and it hath been often ſaid in Meetings, <hi>Friends, you are to take notice,</hi> William Penn <hi>will be here next Firſt Day.</hi> But
+<pb n="40" facs="tcp:34930:21"/>how could they tell, on their Princi<g ref="char:EOLhyphen"/>ple, whether he ſhould be moved to ſpeak to them?</p>
+               <p>I cloſe this part of my Work, with the words of Mr. <hi>Rogers,</hi> a <hi>Briſtol</hi> Qua<g ref="char:EOLhyphen"/>ker, he wrote a Poem, call'd <hi>A Scourge for George Waitehead an Apoſtate Quaker,</hi> in the cloſe of which, he hath theſe words. <hi>Let</hi> George Fox, <hi>and they that uphold him, Remember 'twas</hi> Jereboam <hi>that caus'd</hi> Iſrael <hi>to ſin, and as his name was branded to Poſterity ſo ſhall thei<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.— We cannot own them to be Head and Law<g ref="char:EOLhyphen"/>givers; their Church, Government, Or<g ref="char:EOLhyphen"/>ders, Canons Eccleſiaſtical, are become a Reproach, Taunt, By-word in the Nation, as a juſt recompence of their Pride Apo<g ref="char:EOLhyphen"/>ſtacy and deep Hipocriſie.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="essay">
+            <pb n="41" facs="tcp:34930:21"/>
+            <head>The QUAKERS No Apoſtates, Or the <hi>Hammerer Defeated,</hi> &amp;c. Examin'd.</head>
+            <p>MY Learning is talk'd of by this Man, to make Trophies for his Victory, yet it ſeems my Argu<g ref="char:EOLhyphen"/>ments are light; <hi>If by light,</hi> ſaid one in the like caſe, <hi>you mean clear, I wonder you cannot ſee them; if by light you mean trivial, I wonder you cannot anſwer them.</hi> I thought I had in my firſt Book ſo ſmitten the Quakers, that I need not to have ſmitten them a ſecond time.</p>
+            <p>Becauſe Repetitions are tedious, eſ<g ref="char:EOLhyphen"/>pecially of Impertinencies, I ſhall not trouble you with many of his words; neither ſhall I <hi>actum agere</hi> of what is my own.</p>
+            <p>I ſee I have ſo broken their Teeth
+<pb n="42" facs="tcp:34930:22"/>that they cannot bite, though they can bark.</p>
+            <p>This Man of impotent malice, hav<g ref="char:EOLhyphen"/>ing loſt his reaſon, falls a Raving and Lying prodigiouſly beyond all Men, as ſhall be proved: I had taken no notice of him, nor <hi>W. C.</hi> the Church-man, had it not been for my foregoing work, being the ſeebleſt Adverſaries I ever had. <hi>Reader,</hi> know for the venerati<g ref="char:EOLhyphen"/>on this man and ſome few more ſeem to pretend to for the Scripture, it is nothing; they deny it to be the word of God any more than their own Books, which are <hi>Writings of Truth.</hi>
+            </p>
+            <p>Are they good ſubjects that deny King <hi>William</hi> to be Lawful King of <hi>England,</hi> becauſe they grant him lawful Prince of <hi>Orange?</hi> As vaſt a difference is there between the light of Nature, and that of Scripture, as between the light of a Glow-worm, and the light of the Moon in the Night time</p>
+            <p>I brought a writ of Error againſt the Quakers, and ſee how frantick they grow; their Errors are ſo many, that if one ſhould ask a Quaker, <hi>What is thy Name?</hi> inſtead of the blaſphemous
+<pb n="43" facs="tcp:34930:22"/>anſwer of one, <hi>my name is, I am;</hi> he might reply in the words of the De<g ref="char:EOLhyphen"/>monaick in the Goſpel, to <hi>Jeſus, Legion, for we are many;</hi> ask their <hi>Principles,</hi> one tells you one thing, &amp; another another, and all from the ſame Infallible Spirit; nay, the ſame man ſhall transform him<g ref="char:EOLhyphen"/>ſelf into ſeveral ſhapes; they cannot ſtand before Scripture or Reaſon; when the Sun appears, the night of Bats and Owls is come.</p>
+            <p>I profeſs my ſelf to be aſhamed to meddle with this Accuſer, who is ſo Infamous for Lying, that all the world can confute him: The Papiſts in their Caſulſtical Writing, have aſſerted, <hi>It was lawful for a Prieſt, if ſuſpected and taken, to ſay or ſwear it before a Juſtice of Peace or a Judge.</hi>
+            </p>
+            <p>
+               <hi>Queſt.</hi> Are you a Prieſt?</p>
+            <p>Anſw. <hi>No, that is of</hi> Bacchus <hi>or any Pagan God.</hi>
+            </p>
+            <p>
+               <hi>Queſt.</hi> Did you ever read Maſs?</p>
+            <p>Anſw. <hi>No, that is not with a deſign to tell you of it.</hi> &amp;c</p>
+            <p>They can deny at the place of Exe<g ref="char:EOLhyphen"/>cution any Treaſon or Murther, and ſay they are as innocent as the Child
+<pb n="44" facs="tcp:34930:23"/>to Night born: Why? becauſe for<g ref="char:EOLhyphen"/>footh, <hi>they have been ſince abſolv'd;</hi> nay, if occaſion be, that they <hi>dyè Proteſtants too;</hi> that is, <hi>they proteſt again? the rie<g ref="char:EOLhyphen"/>reſies of the times.</hi>
+            </p>
+            <p>It was well ſaid of Mr. <hi>Mead</hi> the true <hi>Engliſh-man,</hi> in the late Reign to his Immortal Honour) when Sir <hi>D. C.</hi> told him of the Quakers Knwery about five years ſince in <hi>Briſlot,</hi> in cheating the King (a piece of <hi>Roguery</hi> too long to relate) the men choſen, as the beſt of them, by his Majeſty's order, to decide the matter, were ſo vile, that he ſaid, <hi>thou haſt them upon the hip, ſpare not a man of them. — B. C.</hi> i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a Fox<g ref="char:EOLhyphen"/>onian Quaker, Ideal with him as ſuch; not a ſeparate Quaker, theſe roundly anſwered to Dr. <hi>Lancaſters</hi> Queſtions (Bp. of <hi>Londons</hi> Ciraplain) about Chriſt, <hi>&amp;c.</hi> when the Foxonians did it ſophiſtically; the Separate ones an<g ref="char:EOLhyphen"/>ſwer'd well to alltl equeſtions from <hi>Phi<g ref="char:EOLhyphen"/>ladelphia</hi> in <hi>Penſilvania,</hi> when the Foxo<g ref="char:EOLhyphen"/>nian ones there refuſed to do it; they ſwallow all that <hi>Fox</hi> once ſaid, and now <hi>Penn,</hi> without chewing: To Revile and Curie is Common; <hi>Oh! what pu<g ref="char:EOLhyphen"/>putridſtinking
+<pb n="45" facs="tcp:34930:23"/>words come from the mouths of the pretenders to Pure Breathings?</hi>
+            </p>
+            <p>No doubt when ſome of the Qua<g ref="char:EOLhyphen"/>kers, Fellow-Heathen in <hi>America,</hi> hear their hard character of the beſt Mini<g ref="char:EOLhyphen"/>ſters with us, they think we are like Canabals, or like Infernal Fiends.</p>
+            <p>Some when they drank of the old doctrine of Chriſtianity, deſired not their new. 5 <hi>Luke</hi> 39. but ſaid as he of the wine, <hi>The Old is better.</hi>
+            </p>
+            <p>Deiſm is now a thriving weed in <hi>England,</hi> and Quakeriſin is of kin to it. <hi>The Deiſt</hi> (obſerve) <hi>and Quakers are very friendly one to another:</hi> how writes Mr. <hi>Nor is</hi> of <hi>Love to God as Creator, Benefactor;</hi> Why not <hi>Redeemer?</hi> I have been ask'd the queſtion, <hi>Is be a Deiſt?</hi> I do not ſay he is; this is he that hath written ſo favourably of the Quakers to his perpetual ſhame.</p>
+            <p>I am informed, the Quakers Preach more a crucified Chriſt within a year or two, then ever they have done this thirty year. Well, <hi>G. Keith,</hi> and other Reformed Quakers, have taught them to ſpeak well, but have they yet taught them to think or believe well? They
+<pb n="46" facs="tcp:34930:24"/>ſay no, <hi>All but meer Tricks:</hi> Ignoramus <hi>Whitehead</hi> now Preacheth, <hi>Chriſts Body is in Heaven that was once in the Grave.</hi> Well, if you be Inſpired Perſons now, you were Impoſtors once.</p>
+            <p>Now for ſome of <hi>B. C</hi>'s Aſſertions, the naming of which is enough, or more than enough for any that have read my Quakers <hi>Impoſtors or Apoſtstes, proved from their Avowed Principles and contra<g ref="char:EOLhyphen"/>ry Practiſes.</hi> he ſaith, <hi>That he found not Truth or Serſe till be came ro</hi> p, 62. <hi>of that Book. That the</hi> Briſtol <hi>Quakers ne<g ref="char:EOLhyphen"/>ver left their meeting in the laſt Perſecuti<g ref="char:EOLhyphen"/>on unleſs when Sick,</hi> &amp;c. <hi>not</hi> Lawrence Steel, or others. <hi>That the Quakers gene<g ref="char:EOLhyphen"/>rally bow not to men,</hi> &amp;c. <hi>That</hi> George Whitehead <hi>and</hi> William Penn <hi>did ever hear their open Teſtimoney, that in my bro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I grant the Quakers are more juſt than others, and careful not to tell a Lye. That I plead for Lying as a Lawful thing.</hi>
+            </p>
+            <p>That I bring 2 <hi>Tim.</hi> 15. <hi>When I call to mind the unfeigned faith that dwelt in thy Grandmother Lois,</hi> &amp;c. <hi>as a place of ſcripture for playing at Bowles and Nine<g ref="char:EOLhyphen"/>pins:</hi> Theſe and many more things, I dare be bold to ſay, He knows <hi>all to be
+<pb n="47" facs="tcp:34930:24"/>falſe.</hi> He muſt have a face of braſs that aſſerts this. No wonder Quakers cry <hi>ſhame,</hi> and Mr <hi>Penn</hi> ſent me ſo civil a Meſſage to diſown <hi>his being concerned ſince the Cry about it.</hi> This man hath cut the throat of their cauſe. If I prove they <hi>Bow,</hi> I prove them Apoſtates, on this mans Confeſſion; then <hi>Penn</hi> is an Apo<g ref="char:EOLhyphen"/>ſtate; and the Quakers ſo, and B. C. himſelf ſo, and that ſince he wrote this Book, as well as before, as Qua<g ref="char:EOLhyphen"/>kers themſelves confeſs.</p>
+            <p>Other things I ſhall Reply to; <hi>That I had a fit of Love Mell ancholy, made my Confeſſions, and put up in a Mad<g ref="char:EOLhyphen"/>houſe BOX.</hi> Hence I am call'd what he pleas'd times without number; as he had this from the Devil, ſo I ſup<g ref="char:EOLhyphen"/>poſe <hi>W. C.</hi> from his Book: if this be falſe, if I never was one hour in any ſuch place, What Defamers are theſe? Who ſhall believe any thing on their Evidence? as all my Friends and Ene<g ref="char:EOLhyphen"/>mies too, acquainted with me, know theſe ſtories to be ſome of the moſt Im<g ref="char:EOLhyphen"/>pudent Falſhoods that ever were writ<g ref="char:EOLhyphen"/>ten, as I declare they are, and I never heard the ſtories till now; ſo I ſay, as
+<pb n="48" facs="tcp:34930:25"/>the Epiſtle, I <hi>will give Five Pounds to any man that ſhall prove it.</hi> I hope no Miniſters, for my ſake, will regard what theſe Monſters, not Men, ſay of them, and People not Regard.</p>
+            <p>That <hi>R. V.</hi> denies, <hi>That be corfeſſed to me, their Minds were changed, about leaving the place of Publick Worſhip in time of Perſecution. That Monſieur</hi> Whitehead, <hi>denies he expounded So<g ref="char:EOLhyphen"/>lomon's Fool for a Holy Man. Whoſo is Simple,</hi> Prov. 9.4. Give me any form of Words as an Oath or Proteſta<g ref="char:EOLhyphen"/>tion before God, I will uſe them, <hi>That I heard both theſe two things with my own Ears; the Cretians are alway Lyars, and ſo are the Quakers.</hi> Should I ſay, I this day ſaw a Quaker carryed along Drunk by ſix Men, holding his Hands, Legs, Body, that I never ſaw none ſo carry<g ref="char:EOLhyphen"/>ed but he, I care not for their denying, when ſo many Spectators know it True. That he knows not the ſtory of the 40 days Faſt, <hi>&amp;c.</hi> Never heard von of Mrs. <hi>C.</hi> of <hi>Plymouth?</hi> if her husband <hi>A.</hi> be alive, let him thank you, not me, you force me to it; I care
+<pb n="49" facs="tcp:34930:25"/>not to mention names, for reaſon-mentioned in that Book.</p>
+            <p>That <hi>W. P.</hi> denies the ſtory of Mr. <hi>Nicholet</hi> whom he cauſed to be turned out of his place for Licenſing a Book againſt Popery, in the Reign of K. <hi>James</hi> the 2d. Why had not Mr. <hi>Penn</hi> gotten this under Mr. <hi>Nicholet's,</hi> own Hand? Let him yet do it, it much concerns him; No, no, his guilty Conſci<g ref="char:EOLhyphen"/>ence keeps him from deſiring it, &amp; Mr. <hi>Nicholets</hi> honeſty &amp; credit from doing it. That I ſay, I <hi>have <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> me, yet</hi> I <hi>write what I have read and heard.</hi> Every Child, <hi>B. C.</hi> excepted, would know the ſeaſe of this; Did any one think, tho I am far from my Study and friends, I muſt forget all that ever I read and heard too?</p>
+            <p>That I ſaid, <hi>I would not propoſe a Que<g ref="char:EOLhyphen"/>ſtion to William Pnen, and yet did, about not ſerving Proteſtant but Popiſh Kings in Wars,</hi> when the ſenſe is plain, I pro<g ref="char:EOLhyphen"/>poſed it not for an Anſwer to me, he be<g ref="char:EOLhyphen"/>ing ſuſpected to be no ſmall Jacobite. And now the Guas road, <hi>Chimpuden &amp; Falſhood: The Lake for the Lyar, and the Lyar for the Lake, &amp;c.</hi> But what is for thee
+<pb n="50" facs="tcp:34930:26"/>B. C. thou impudent Publiſher of ſo ma<g ref="char:EOLhyphen"/>ny notorious Untruths? nay, no and of them: as that I wrong the Quakers, to charge <hi>them with denying Scripture to be a Rule:</hi> Judge all men, Quakers themſelves; <hi>That to pray in Families and alone, is the known practiſe of Quakers, &amp;c.</hi> muſt be a notorious Untruth or Equivocation: What is it the Old ſhift, <hi>mental Prayer?</hi> no friend C. that is al<g ref="char:EOLhyphen"/>moſt gone too. Seeing you ſo provoke me about <hi>Barclay,</hi> others remember the Words as well as I; &amp; I declare, <hi>He was once a Papiſt and ſerved the Prieſt at the High Al<gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>:</hi> I am ready to prove his Confeſſion of this, where, and to whom, had my challenge been accept<g ref="char:EOLhyphen"/>ed of: I am a Hundred Miles from my Study, I think it not worth while to go to <hi>Cullington</hi> to carry your Anſwer, who haſt out done all men in Lying, by telling me in Print, <hi>that Quakers ge<g ref="char:EOLhyphen"/>nerally bow not to men;</hi> What will you ſay as one, <hi>We bow not, but give a civil N<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d?</hi> Well, the Civil Nod was once called Bowing and condemned to man, as due only to God, and all in the name of the Lord.</p>
+            <pb n="51" facs="tcp:34930:26"/>
+            <p>I am not bound to follow thee B. C. in thy large diſcourſe to make up ſom<g ref="char:EOLhyphen"/>thing about Baptiſm and the Lords Supper; only was not 1 <hi>Cor.</hi> 1.14 &amp;c. a notable place to prove it is out of door to Baptiſe, when <hi>Paul</hi> nameth whom he Baptized did he go beyond his Commiſſion? or acted he not ac<g ref="char:EOLhyphen"/>cording to <hi>Mat.</hi> 28.19, 20. He gives the reaſon why he was glad he Bapti<g ref="char:EOLhyphen"/>zed no more, <hi>Ieſi any ſhould ſay I Bap<g ref="char:EOLhyphen"/>tized in my own name?</hi> for ſome ſaid, <hi>I am of</hi> Paul: <hi>Chriſt ſint him not to Baptiſe,</hi> as his principal Work, for that was <hi>to preace the Goſpel;</hi> Like That, <hi>Labour not for the moſt t<gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> periſheth</hi> (not ſo much, or not in compariſon) <hi>but for that which endures to Eternal Life,</hi> Labouring for food that periſheth, is ſo far from being a ſin, it is a great Duty in all, and the neglect a great ſin againſt the Law of God and Nature. <hi>Mat.</hi> 28.19 muſt be of water baptiſm, for man cannot baptiſe with the Spirit.</p>
+            <p>For the Syllogiſme B. C. lays down (once condemned by the Infailible Spirit as a Heatheniſh Cuſtome, hate<g ref="char:EOLhyphen"/>ful to a Chriſtian) how knows he the Apoſtles Baptized not acording to the
+<pb n="52" facs="tcp:34930:27"/>Form, <hi>Mat</hi> 28.1, becauſe we read not ſo; beſides,</p>
+            <p>What if Chriſts Words be not a neceſſary form to be then Uſed; they that preach in the name of God and Chriſt, may do it without naming this in ſo many words, I determine not now but confute his Argument; the Lords Supper they Say, <hi>they need not; the Subſtance is come to them;</hi> you wick<g ref="char:EOLhyphen"/>ed and Ungodly Wretches was not the Subſtance come to <hi>Paul,</hi> and other Saints at that time: what Subſtance is come to you you Prayerleſs World<g ref="char:EOLhyphen"/>ly Creatures?</p>
+            <p>Now how can this Man call his Idle Tale an Anſwer? might I not have expected my Queſtions to <hi>W. Pean</hi> to be conſidered in Order?</p>
+            <p>Q. 1. <hi>About Perfection.</hi> What I ſay of <hi>Job, Aſa, Paul,</hi> None of my reaſons here are conſidered; if the Doctrine of Perfection be not True, they were Impoſters, if True, Apoſtates, for they now Confeſs, <hi>They are not Perfect;</hi> then ſay I of the Devil, for ſo they once ſaid to us.</p>
+            <p>Q. 2. Of <hi>G. Biſhop</hi>'s Lookings Glaſs, if
+<pb n="53" facs="tcp:34930:27"/>way of the Quakers was not like the Old Chriſtans, He was an Impoſtor; If the Old way was good, they <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Apo<g ref="char:EOLhyphen"/>ſtates</p>
+            <p>Q. 3. <hi>For Matings,</hi> They left <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their Publick Place, were taken in a Private One: Would in a good <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>mour tell ſome of ours, <hi>how they Itgle a meeting ſuch all ask day, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> go<g ref="char:EOLhyphen"/>ing in and coming out ſo fear of <gap reason="illegible" resp="#MURP" extent="6 letters">
+                     <desc>••••••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ers; Were they Apoſiates that did this?</hi> They that came out of Priſon went no more Openly; O ſhameleſs Creatures to deny this, and call me Lyar.</p>
+            <p>
+               <hi>Whitehead,</hi> when blam'd for not appearing in <hi>London</hi> as before, ſaid, <hi>He could be of as good <g ref="char:V">Ʋ</g>ſe in ſuch <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>vate Place;</hi> Was never in Priſon in all the lift Perſecution, as I am creditly Informed; yet ſome wright Acts 9. 24. that had not been in Scripture <hi>Pauls being let down in a Basker, &amp;c.</hi> Deny, and Deny as you will, I snow you ſo well I will as ſoon take the word of a Seminary Prieſt or Jeſuit a<g ref="char:EOLhyphen"/>bout his Church, as yours about your Light, <hi>&amp;c.</hi>
+            </p>
+            <p>Mr. <hi>Vickris</hi> at his own Houſe told me,
+<pb n="54" facs="tcp:34930:28"/>
+               <hi>There was a Dark Day came on us can<g ref="char:EOLhyphen"/>not decayed.— Some were in Dect, Frit<g ref="char:EOLhyphen"/>ters <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</hi> When I anſwer<g ref="char:EOLhyphen"/>ted him, <hi>The <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> in it</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> not <hi>in <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, he ſaid, <hi>I believe <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, elſe it uniſt be <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> as <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſayeſt.</hi> The a ſaid <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, <hi>Pepent of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a fuly. Meſſage from for Lord, and do it no more.</hi> ſo we ſat down good Friends, and talked of other things The Story of <hi>Elizabeth Serring</hi> and <hi>For as Dole,</hi> is Notorious; did I name the Habitation of either or them, that you thus B. C. quarrel? Pray Look again.</p>
+            <p>
+               <hi>Queſt.</hi> 4. The Queſtion is, <hi>About <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Miniſters for Hummour beginning and following</hi> Penn <hi>for his.</hi> The anſwer is about <hi>Spiritual Learning.</hi> Was not <hi>Perm</hi> followed for his Parts? Had he more of the Spirit than the reſt? No, ſay ſome Quakers, much leſs; others ſay he had none at all: Was not Latin, Greek, and Hebrew condemned, <hi>&amp;c.</hi> Muſt I name things again and again, and ſtill unanſwered? My charge againſt <hi>Penn;</hi> being no Scholiar ſeems to be granced.</p>
+            <pb n="55" facs="tcp:34930:28"/>
+            <p>Quſt 7. <hi>About Bowing to men.</hi> Thon telleſt the Greateſt Lye that ever was told the world, <hi>You bow not;</hi> you Qua<g ref="char:EOLhyphen"/>kers, Men, Women and Children, ſpeak out; Is not <hi>B. C.</hi> an Impudent, Infam<g ref="char:EOLhyphen"/>ons, Ungodly I var?</p>
+            <p>Queſt 5. <hi>For ſaying one thing to</hi> Cromwel <hi>in the name of the Lord, and the quite con<g ref="char:EOLhyphen"/>trary to King</hi> Charles; I am put off, The <hi>Snake in the Graſs will be anſwered.</hi> It will be a pure diſh; it hath been long lookt for; the anſwer you give me and others may ſerve a <hi>Menter is:</hi> For my Queſtions they ſhould have been conſi<g ref="char:EOLhyphen"/>dered, which an<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s;wered of the Reader.</p>
+            <p>What is <hi>W. Penn?</hi> what are the Qua<g ref="char:EOLhyphen"/>ker<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>?</p>
+            <p>I am told How many of us promiſed lives and for tunes to K. <hi>James,</hi> I anſwer, <hi>Jeremary, yet not ſo many as you ima<g ref="char:EOLhyphen"/>ge:</hi> They that did, did not pre<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>end to <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, Inſpiration, and I know not <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the <hi>Briſtol</hi> Addreſs was from them called Presbyterians; There were five of us in or nigh the City; this was the act only of one Man; all the reſt of us (Miniſters) proteſted againſt it; nay, One (now Dead) Said,
+<pb n="56" facs="tcp:34930:29"/>He <hi>could be content, they and their Peſteri<g ref="char:EOLhyphen"/>ty, ſhould loſe the Benefit of Law, who ſo ſhank fully betrayed it.</hi> I and one Miniſter more, were in deny or of being bed at Council-Board for oppoſing the Court deſign: What a horrid <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> piece <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> was it, to tell that King, <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Security of their King <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> from Mature judgment and Rooted Principles</hi> &amp;c.</p>
+            <p>Yet 1. They kept Faſt Days for fear of Popery and Slavery.</p>
+            <p n="2">2. Then <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ould <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> be no Papiſt, if he believed it Unlawful to Perſecute Men for Conſcience in the common Ac<g ref="char:EOLhyphen"/>ceptation of the Words; then had the Pope Er<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed, and a Council, and that in no ſmall matter; but alas K. <hi>James</hi> knew <hi>Proſe ution of men for Hereſic was ro Perſecution for Conſcience, beſides, an Peroneous Conſcience, was no Conſcience Quit non eſt ſcientia &amp;c.</hi>
+            </p>
+            <p n="3">3 The Addreſſers would ſay private<g ref="char:EOLhyphen"/>ly. <hi>All was but a Trick of K.</hi> James; No wonder he Laughed at them when they were gon, and <hi>P<g ref="char:V">Ʋ</g>AW'd</hi>— &amp;c.</p>
+            <p>I have been every where, of late
+<pb n="57" facs="tcp:34930:29"/>years, Plagued about thoſe Scand<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lous Addreſſes. Some would call a <hi>Second Judas,</hi> a <hi>Second Cyrus,</hi> and the Deſtroy<g ref="char:EOLhyphen"/>er of their Countrey, the <hi>Repairer of their Breaches.</hi> Well done <hi>B. C.</hi> to call them that did it to Repentance, I have called on them; all little enough.</p>
+            <p>Now Friend <hi>C.</hi> let me ask thee a few. Queſtions.</p>
+            <p>Was it not ſhameful to cenſure me and another man, for not putting our names to our Books, and thou never put thy name to thine? <hi>I</hi> gave it out to all I was the Author.</p>
+            <p>May I not debate the matter with Jews Mahometans and others, and yet be concluſive in the Doctrine of Chri<g ref="char:EOLhyphen"/>ſtianity? Why Child, what ails thy Noddle?</p>
+            <p>Is it proper to cenſure me for being Comical, after I gave my reaſons, and they not conſidered? p. 6.</p>
+            <p>Is it true <hi>W. Penn</hi> Expounded on <hi>Mat.</hi> 18.17. <hi>Tell the Church,</hi> a ſenſe de<g ref="char:EOLhyphen"/>nyed in one place, confirmed in ano<g ref="char:EOLhyphen"/>ther; to ſerve a Turn (I ſee there was a little Miſtake in putting the names of the Book) could not ſo great a Lyer as
+<pb n="58" facs="tcp:34930:30"/>thou, <hi>that talks of my being once in a maed-houſe; that denieſt Quakers Bow;</hi> Couldſt not thou have ſaid, <hi>Some Enemy, or the Printer, or others, put in thoſe Words, or that ſome Letters accidentally jumpt together and make theſe unhappy Sentences;</hi> Where is Inſpitation now? when he was lately told ſome Quakers deny any Body of Chriſt in heaven, <hi>&amp;c.</hi> He ſaid, <hi>they were Ignorant tho Sincere:</hi> What friend <hi>William,</hi> is the Light and Infallible Spirit come to this?</p>
+            <p>Did I ſay in my Book, <hi>The Qua<g ref="char:EOLhyphen"/>kers were more humble than others?</hi> &amp;c. Away thou ſhameleſs Man; What wilt thou ſaynext? Or that, <hi>The Qua<g ref="char:EOLhyphen"/>kers were more Juſt than others?</hi> No, I did not ſo wrong them? Did I not give a true account of <hi>Barclay</hi> about the Light? <hi>p.</hi> 79. Look once again.</p>
+            <p>May not Perfectioniſts, long con<g ref="char:EOLhyphen"/>tinuing ſo, at laſt reform, and ſo <hi>God be merciful to them in their Converſion, be a proper Petition:</hi> I am not uſed to deal with ſuch ſilly Arguers.</p>
+            <p>Suppoſe I ſhould plead the cauſe of him that wrote the ſtory of <hi>Henry Windor;</hi> let it not diſpleaſe, ſeeing he
+<pb n="59" facs="tcp:34930:30"/>was joyn'd with me; who he is I know not.</p>
+            <p>He is ſaid <hi>to be worſe then Mad, worſe then the Hammerer:</hi> why? the two Qua<g ref="char:EOLhyphen"/>kers that came to <hi>Henry Winder</hi> and his Wife from the Lord, that they had Murthered a Child and muſt dye, &amp; the Spirit would appear in the Court: <hi>They were Meiancholly or Mad,</hi> ſays <hi>B. C.</hi>
+            </p>
+            <p n="1">1. They were owned by the Qua<g ref="char:EOLhyphen"/>kers before, in and after, to their Death.</p>
+            <p n="2">2. This Madneſs was not diſcern'd by the Juſtice or Judge, or Quakers or others, but the Quakers clos'd in with them.</p>
+            <p n="3">3. If any thing falls out as they ſay, <hi>They be the Lords Prophets;</hi> if not, they <hi>were then mad.</hi> Was <hi>Sollomon Eccles</hi> Mad when he Propheſied falſly to <hi>John Story;</hi> not when he propheſied of the burning of <hi>London,</hi> of which Friends took no more notice then the Men of the World, and ſo never mov'd their Goods, ſaying, <hi>It was a Deluſion?</hi> Was <hi>W. Penn</hi> Mad, when he propheſied againſt <hi>Thomas, Hicks?</hi> For the ſtory in <hi>Briſtel</hi> of a Quaker that ſaid, <hi>Thus
+<pb n="60" facs="tcp:34930:31"/>ſaith the Lord, give the man his Rope again;</hi> it is denied; ſo is every thing elſe; but I pray, Why not as well as when <hi>G. Fox</hi> was about to Eat, <hi>The word of the Lord came unto him, ſaying, Eat not.</hi>— as before.</p>
+            <p>Now <hi>B. C.</hi> to humble thee, if it may be, for thy Folly and Falſhood; I will ſuppoſe, I ſhould apply my ſelf to thee in the ſame Language thou haſt done to me, and with the like Falſhood, What wouldſt thou ſay of me? what many now do, and many more will of thee: Suppoſe I ſhould beſprinkle thee with ſome of thy Oratory to me and another; <hi>Th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> impoſtor, in thy Colours, fit for</hi> Box <hi>or</hi> Bedlam: <hi>in thy ſouth thou wert burnt in the band at</hi> Briſtol <hi>for a Highway-man; yea, thou wert Pillored, and thy Ears were cropt off for Sedition: Thou refuſeſt to Preach to the Quakers under Five Hundred a Year. None of my Friends in</hi> Briſtol <hi>ever deſerted St.</hi> James's Back, <hi>&amp;c. in the laſt Perſecuti<g ref="char:EOLhyphen"/>on; and I will prove it, for it is well known</hi> John Weeks <hi>was committed to Priſon; therefore neither he,</hi> George Founs, Sa<g ref="char:EOLhyphen"/>muel Winney <hi>nor I, did ever refuſe to
+<pb n="61" facs="tcp:34930:31"/>walk up and down the City on week days, or to Preach in our Publick Places to a thou<g ref="char:EOLhyphen"/>ſand at a time, Lords Days. O thou Im<g ref="char:EOLhyphen"/>pudent Man, Mad-man,</hi> &amp;c. <hi>Thou didſt prove the <g ref="char:V">Ʋ</g>nlawfulneſs of Bowls and Nine<g ref="char:EOLhyphen"/>pins from</hi> Mat. 1.2. <hi>And Abraham be<g ref="char:EOLhyphen"/>gat Iſaac, and Iſaac begat Jacob, and Ja<g ref="char:EOLhyphen"/>cob begat Judas and his Brethren. He muſt ſet up for the trade of Lying, that doth it more than thou; every leaſe is full of Nonſenſe: None have ſo much the command of the Peoples Purſes as the She Speakers; yet to avoid Reflections as much as may be, I have thus ſpoken to thee,</hi> &amp;c. But there is no end of this; ſhould I thus do, might I not fear as <hi>Cain;</hi> you had as good cut off a man's arm or leg as thus deſame him: VVell, one conſideration is comfortable, <hi>a Quakers word is no Slander.</hi>
+            </p>
+            <p>You have been known to be Notori<g ref="char:EOLhyphen"/>ous Lyars in your higheſt Pretences, your greateſt Speakers.</p>
+            <p>I had almoſt forgotten to tell the Reader, that <hi>B. C.</hi> in the name of Friends, ſays, <hi>As Scripture contain the Word and Command of God to us, ſo they are the word of God,</hi> &amp;c. No more need
+<pb n="62" facs="tcp:34930:32"/>to be ſaid; your cauſe is gone: I there<g ref="char:EOLhyphen"/>fore declare my work lies with Mr. <hi>Penn,</hi> to him were my Queſtions ſent, and ſeeing he cannot anſwer, and therefore wiſely attempts it not, I in<g ref="char:EOLhyphen"/>tend no more to anſwer ſuch ſcrib<g ref="char:EOLhyphen"/>lers as <hi>B. C.</hi>
+            </p>
+            <p>I leave you with St. <hi>Paul</hi>'s words, Gal. 1.6, 8, 9. <hi>I marvel you are ſo ſoon removed to another Goſpel; but though we or an Angel from Heaven Preach any other Goſpel unto you, then which we have Preached unto you, let him be Accurſed; as we ſaid before, ſo ſay I now again, if any man Preach any other Goſpel unto you then that ye have received, let him be Ac<g ref="char:EOLhyphen"/>curſed.</hi> Which words have been wiſely and ſeriouſly uſed by ſome Miniſters, when Quakers have come from far to them to deliver a <hi>Meſſage,</hi> forſooth, from the Lord, againſt the <hi>Outward, Word, and Outward Chriſt, and Outward Baptiſm, and Outward Supper.</hi>
+            </p>
+         </div>
+         <div type="essay">
+            <pb n="63" facs="tcp:34930:32"/>
+            <head>Now for the Man of Wit, Civility and Learning; the Author of,</head>
+            <head type="sub">Trepidantium Malleus, Intre<g ref="char:EOLhyphen"/>pidanter Malleatus: Or, the Weſt-Countrey Wiſe-A-ker, Crackbrain'd Reprimand, to a late Book call'd, Mr. <hi>Keith no Preſ<g ref="char:EOLhyphen"/>byterian, nor Quaker, but</hi> George <hi>the Apoſtate.</hi> Hammered about his own Numſcul, being a Joco Satyrrical Return to a late Tale of a Tub, emitted by a Reve<g ref="char:EOLhyphen"/>rend Non-Con, at preſent reſiding not far from <hi>Bedlam, By</hi> W.C.</head>
+            <p>NOw Monſieur, I hope I have pleas'd you to the heart; and no more will you ſend a Hue and Cry af<g ref="char:EOLhyphen"/>ter me for taring away a Rag of the Title of your Book.</p>
+            <pb n="64" facs="tcp:34930:33"/>
+            <p>
+               <hi>What a Bluſtering Title is here?</hi> I muſt not examine its Grammar or Oratory, becauſe the Writer is a great ſtranger to both, as will be ſoon enough diſ<g ref="char:EOLhyphen"/>covered: In the mean while, I re<g ref="char:EOLhyphen"/>member I have heard that when K. <hi>James</hi> I. was about to Knight<g ref="char:punc">▪</g> one <hi>Wil<g ref="char:EOLhyphen"/>liams</hi> of <hi>Eſſex,</hi> he asked him, what his <hi>Chriſten Name was?</hi> He anſwered, <hi>penny ruden buden budibras penny knip knap clip clap clun clap, I think,</hi> ſaid the King, <hi>the Old Nick was thy Gadfer that gave thee ſuch a name; Sir</hi> Ruden, <hi>I cannot tell what,</hi> Williams, <hi>ariſe,</hi> ſaid he: whoever gave him his name, let the world judge who made your Title for you, who is the Father of Eye, the Slanderer of the Brethren: Well, Mr. <hi>Trepidantium Malleus, Intrepidantur Malleatus, I can't tell what;</hi> let me par<g ref="char:EOLhyphen"/>ly with you; Empty Casks make great Sounds: Your Title, that Blazing Comet, doth it preſage any miſchief? certainly its own diſappearing. You tell the World ſtrange news of me, that I aſſure you I never heard till now. Had you it from the Infallible Spirit and Writings of Friend <hi>B. C.</hi> of <hi>my
+<pb n="65" facs="tcp:34930:33"/>Love Melancholy, and being at</hi> Box, men<g ref="char:EOLhyphen"/>tioned and hinted 10 times in your little Pamphlet? <hi>Always on the ſame Tune you know what Creature is ſo:</hi> When was this? when was I at <hi>Box,</hi> or any ſuch place? Oh I have hit it, it was when the Presbyterian ſaid, <hi>If ever Jeſus Chriſt was D—it was when he made the Lords Prayer;</hi> which <hi>W. C.</hi> makes no bones of to write plainly, <hi>though a Turk would hardly wirte ſo of his Mahomet:</hi>— What will not Church and Quakeriſh Jacobites ſay: <hi>W. C.</hi> a Church-man, he ſays, and perhaps the firſt letter may ſtand for Wicked. Well, Mr. <hi>W. C.</hi> you Wicked Church<g ref="char:EOLhyphen"/>man, I promiſe any of your Brethren, <hi>Five Pound, if they can before me, prove your Charge:</hi> You ſay, <hi>You are afraid, leſt by anſwering me, you ſhould be forced to go to</hi> Bedlam <hi>too,</hi> &amp;c. Sure here are had ſimptomes of haſtniag there, but alone for me; and in the cloſe of all, you anticipate an objection to your Readers.</p>
+            <p>
+               <hi>What think you Sirs, am not I almoſt as mad as my Antagoniſt to anſwer his rambling ſtuff?</hi> How doth <hi>W. C.</hi> an<g ref="char:EOLhyphen"/>ſwer,
+<pb n="66" facs="tcp:34930:34"/>by granting the thing, but pro<g ref="char:EOLhyphen"/>miſing Reformation; <hi>Excuſe it this once, I will trouble you no more:</hi> Well then, <hi>You have been once mad;</hi> if this be gran<g ref="char:EOLhyphen"/>ted, your Readers are mad too, if they regard ſuch a mans promiſe out of his fit, much more if in it.</p>
+            <p>I never heard what the fate was that beſel me for my <hi>High Demands for Preaching;</hi> Had you it from <hi>B. C.?</hi> you are grown a great Church-Friend to Friends; you write of Mr. <hi>Penn,</hi> Mr. <hi>Whitebead</hi> and other Quakers, with great veneration and devoir, and have many a good word for them; <hi>They Allegorize not away the Literal Senſe if Scripture;</hi> though it is ſo noto<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ous they have done it often; though to ſerve a turn, they ſhall call for the Literal Senſe, <hi>Take it up, look on it, lay it aſide again:</hi> but Mr. <hi>Keith</hi> and I are both fit for <hi>Bedlam; it is pitty the Hoſpital in</hi> Moor-fields <hi>ſhould part-us,</hi> &amp;c.: Nay, which is more ſtrange, Mr. <hi>Bugg,</hi> a Reformed-Quaker, and now a Zealous Pious Church-man, can<g ref="char:EOLhyphen"/>not eſcape the Laſh: <hi>He, Mr.</hi> Penny<g ref="char:EOLhyphen"/>man <hi>and Mr.</hi> Criſp <hi>left the Quakers on
+<pb n="67" facs="tcp:34930:34"/>diſguſts,</hi> and particular Pecques; why had you not told what they were? for fear of a Confutation: All know they left them only for their Blaſphemies, Hereſies and Abominable Practices.</p>
+            <p>But that which is almoſt unpardo<g ref="char:EOLhyphen"/>nable, is, your Vilifying the Man whom all the World Admires, an high Epiſcopal Man too, the Author of the <hi>Snake in the Graſs!</hi> All that wrote againſt the Quakers before, play'd with them, till he wrote that unanſwe<g ref="char:EOLhyphen"/>rable piece. p. 17. <hi>That his writings are collections of thoſe Gentlemans before named; which is,</hi> ſay you, <hi>as if we ſhould take an account of the Presbyterians from Biſhop</hi> Laud <hi>or</hi> Heylen; <hi>or of our Church from</hi> Bellarmine <hi>and</hi> Harding: Well macht Mr. Churchman, ſay I, but the miſchief is, his Collections are not in their Books; in good truth Sir, you might well ask your Reader, <hi>Whether he did not think you mad?</hi> Mr. <hi>Snake</hi> conſulted the Authors he cites, and it would have been a moſt Injurious Charge to ſo great a Man to be ſo un<g ref="char:EOLhyphen"/>worthily Reflected on, had it not
+<pb n="68" facs="tcp:34930:35"/>been by ſuch a D—as all muſt ſee that are Schollars, and read your Book.</p>
+            <p>He, Mr. <hi>Keith</hi> and I, in our <hi>Three New Ways</hi> of Dealing with the Qua<g ref="char:EOLhyphen"/>kers, help not one another to Mate<g ref="char:EOLhyphen"/>rials: after you cenſure us all, as if Fools or Madmen; you tell us, <hi>Such Fools as you think to make Fools of them</hi> (Quakers)</p>
+            <p>You ask us, <hi>How doth it appear Mr.</hi> Keith <hi>is Reformed?</hi> He deſires you to appear, ſo do I; there is no end of Printing in your way, <hi>Cite at large,</hi> and then diſpute what is the ſenſe of this word and that word; but neither you, nor <hi>William Penn,</hi> will meet Mr. <hi>Keith,</hi> or me; Come torth you Cow<g ref="char:EOLhyphen"/>ardly Defamers, ſhew your Faces if you dare.</p>
+            <p>Becauſe Mr. <hi>Keith,</hi> changed not in <hi>any one Article of Faith,</hi> may he not therefore be <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>anged in other things? You ſay, <hi>You ſet as a looker on, That the Joy of all Miniſters about</hi> G. K. <hi>is groundleſs, and they be all miſtaken:</hi> What is the Biſhop, Lord Mayor, and Clergy mad too, as well as <hi>G. K.</hi> and <hi>Trepidantium Mallous?</hi> Conformiſts
+<pb n="69" facs="tcp:34930:35"/>know not who you are: You ſeem to own your ſelf to be a <hi>Jacobite,</hi> though not a <hi>Socinim, and that I have hit the mark about your being paid by the Quakers for the Service you do them, and ask me,</hi>
+            </p>
+            <p>
+               <hi>Why may not I as well as Dr.</hi> Stubbe? It is an old queſtion, <hi>Why may not one man play the Knave as well as another?</hi> Perhaps you are of the opinion of <hi>H. P.</hi> in the time of the War, when one call'd him <hi>Knave,</hi> ſaid, <hi>If thou wert not a Fool thou wouldſt be one too now:</hi> Yet you tell me, <hi>I would unſay all I have written againſt the Quakers, for Money:</hi> Well Brother, I am then no fool, tho' ſo often call'd ſo: You ask me, <hi>Whether when I had a Priviledge Place, I ever put on my Surplice?</hi> No Sir, when I was at the worſt, I was never ſo Mad yet, as to put my Shirt on all my Cloaths; I will not only as ſoon, but ſooner take <hi>Du Moulins</hi> Fools Coat, which though he would wear, all would not; <hi>Would not a Fools Coat well become a Mi<g ref="char:EOLhyphen"/>niſter of the Goſpel?</hi> when I was a Preacher at <hi>Briſlington</hi> and <hi>Charleton, I had Presbyterian Ordination; I baptized according to the Directory; I Catechiſed
+<pb n="70" facs="tcp:34930:36"/>in the Church, in, What is the chief end of Man?</hi> &amp;c.</p>
+            <p>Mr. <hi>W. Churchman</hi> tells me, <hi>He could trov.</hi> G. Keith<hi>'s Queſtions to be Prepoſitions, if need were.— He can ſay more of the</hi> Aberdeen <hi>buſineſs then I do know, or are like to know for him;</hi> is a fine way of anſwering: I ask you one queſtion, Whatever place Mr. <hi>Keith</hi> Allegorized in Scripture, Did he once diſown the Literal Senſe? this his Adverſaries, you plead for have done; though ſometimes they would own it Politickly; Shew one place where he is guilty here?</p>
+            <p>For your Citations, <hi>It is no more a Body of Fleſh, Blood, and Bones when it Riſeth;</hi> then ſay I, <hi>Not the ſame Nu<g ref="char:EOLhyphen"/>merical Body:</hi> He ever own'd it the ſame for Subſtance, though not Quali<g ref="char:EOLhyphen"/>ties: What think you of the ſtub ſtance of the Egg, and Chick coming of it? of Rain, when Ice or Snow? So his other, is not that Fleſh that ſhall be raiſed; the Apoſtle ſaith not, <hi>That Body,</hi> &amp;c. 1 <hi>Cor.</hi> 15.27, 53. <hi>Yet this Mortal ſhall put on Immortallity:</hi> How ſhall it ariſe? Various opinions are
+<pb n="71" facs="tcp:34930:36"/>about it, among them that are ſound in th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Doctrine of the Reſurrection.</p>
+            <p>For your great Contradiction, <hi>p.</hi> 13. about <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Chriſt, as uni<g ref="char:EOLhyphen"/>verſally <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>eſſa<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to S<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>vation <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd yet True C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>riſtia<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y may ſul<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>n about the <gap reason="illegible" resp="#MURP" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>edge of Chriſt in the <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>r,</hi> he ſays, <hi> 
+                  <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ny know little of the Hiſtory of Chriſt, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Birth, manner of Life and Death, that must know him to be a mediator and Sa<g ref="char:EOLhyphen"/>viour, and how far God may even to Heathens, diſcover a Mediator, before they dye who knows?</hi> You have many in your Church, and too many in ours, that aſſert more than this, That Heathen Turks, <hi>&amp;c.</hi> that never diſown their <hi>Ma<g ref="char:EOLhyphen"/>bomet,</hi> may Love God and be Saved: are theſe Apoſtates too? For that is my Queſtion; not whether <hi>G. Keith</hi> wrote Unſoundly at one time, or con<g ref="char:EOLhyphen"/>tradicted himſelf at another: For that miſtaken paſſage in his Exact Narra<g ref="char:EOLhyphen"/>tive, <hi>He had not changed in one Principle of Religion, for Thirty Year or more:</hi> He did not mean by Principle, <hi>Opinion,</hi> as you ſeem to underſtand him, but <hi>Arti<g ref="char:EOLhyphen"/>tle of Faith:</hi> Sure he confeſſed before, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Change in Opinion about many
+<pb n="72" facs="tcp:34930:37"/>things, as <hi>Matthew</hi> 28.19. but he was Baptized himſelf in Infancy, which he owns, <hi>&amp;c.</hi>
+            </p>
+            <p>You tell us not what bitter Expreſſi<g ref="char:EOLhyphen"/>ons he once dropt againſt Presbyteri<g ref="char:EOLhyphen"/>ans and others, but in the general, Hard ones; only that he call'd y<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Prelacy <hi>Limbs of Antichriſt,</hi> your Mi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſtry, <hi>Ambitious, Lordly, without Ze<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> for God,</hi> and you bid me look in his Books.— Why Sir, I thought you had known that not only <hi>G. Keith,</hi> but the <hi>Scots Presbyterians, Rutherford, Gelaſpee,</hi> and many others, call'd them ſo too: and at home the Anabaptiſts, and ſome Independents and Presbyterians them<g ref="char:EOLhyphen"/>ſelves have done the like: Doth this prove them Apoſtates? No, no more, nor ſo much as the names you give our Miniſters and Meetings, too groſs to foul my Paper with, prove you to be ſo: For Election, I take him to be more found than you, your Citations of him &amp; your joques compare together.</p>
+            <p>If you prove him a Corrupt Man, a Man that had forgotten himſelf, and dropt an Unadviſed word at <hi>Turners-Hall,</hi> I had not been his Voucher; but
+<pb n="73" facs="tcp:34930:37"/>an <hi>Apoſtate</hi> he was not by any Argu<g ref="char:EOLhyphen"/>ments of yours, and therefore you a Libeller; what your deſign was in that abuſive Pamphlet, he that runs may read: I know he hath corrupt notions many and great, and yours of the New Church of <hi>England</hi> (Remember there I keep, not the Old one) not few or ſinail; how I have proved that, I need not tell you; ſo well, you thought it not ſafe to Reply, but only rage, <hi>You <g ref="char:V">Ʋ</g>ngrateful VVretch,</hi> &amp;c. I profeſs, when <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> look upon my <hi>Reprimand,</hi> I wonder how you could call your Re<g ref="char:EOLhyphen"/>turn an Anſwer; Was it Ignorance or Malice? perhaps both; but no wonder when you tell the Quakers, that I have written nothing to purpoſe againſt them; I ſuppoſe you do not, cannot think ſo: Why anſwer you not my Queſtions to Mr <hi>Penn,</hi> he could not, B. C. attempted it, but hath ruined their cauſe, and advanced mine, by making Lyes his Refuge, which I ſup<g ref="char:EOLhyphen"/>poſe makes Mr. <hi>Penn</hi> diſown any hand in it.</p>
+            <p>I ſay it again, My <hi>work was not fully <gap reason="illegible" resp="#MURP" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ify</hi> G. Keith, <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> whether he hat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="74" facs="tcp:34930:38"/>contradicted himſelf, but to detect</hi> W. Church-man<hi>'s deſign, which was to ſtrengthen the hands of</hi> Penn <hi>and the</hi> Fox<g ref="char:EOLhyphen"/>onian <hi>Quakers, to wound the Separate Ones; this is obvious to any Sober Reader to be his Deſign:</hi> Did <hi>G. K.</hi> ever reject the Literal Senſe, as they often did of Scripture? <hi>If he ſaid Chriſt within was the Object of Faith; did he ſay only as within; denying Chriſt without to be ſo, which all know the reſt did times without number:</hi> I am glad we have him ſo far, I wiſh more, I doubt not he is C<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>pable yet not ſo vile as W. C. makes him; he will ſhortly anſwer for himſelf.</p>
+            <p>Further, W. C. proves him an Apo<g ref="char:EOLhyphen"/>ſtate by denying <hi>Election,</hi> &amp;c. I reply<g ref="char:EOLhyphen"/>ed, <hi>Then are the Arminians Apoſtates,</hi> which is to be abhorr'd by Sober Men: He ſays I am no <hi>Arminian,</hi> No, and yet joques after B. C. and ſports himſelf with you <hi>of the Election of Grace; <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Reprobate VVorld; you babes of Grace;</hi> which Pious Sober Arminians do not: Well, if he be not ſo, are ſuch Armi<g ref="char:EOLhyphen"/>nians as appear in a great Figure, and who are numerous in the Church of <hi>England,</hi> Apoſtates? I proved at <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="75" facs="tcp:34930:38"/>the New Church of <hi>England</hi> is an Apo<g ref="char:EOLhyphen"/>ſtate Church on his Principles, not mine: I am anſwered, <hi>You are an <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>grateful VVretch to reflect on that Church that gives you your Liberty:</hi> We hum<g ref="char:EOLhyphen"/>bly and heartily Thank His Majeſty and the Parliament, for continuing the Liberty we had before, but will you not thank us for helping you to ſe<g ref="char:EOLhyphen"/>cure your Liberty, by joining with you to effect the late happy Revolution: How odious would it have been, after all, to have made our Circumſtances worſe than King <hi>James</hi> did; yet to be plain, <hi>Had not he given a Toleration, we might have been to ſeek for it for ſome of you:</hi> Suppoſe a Man on the Highway is full of Rage, Beats me, takes away my Money, and was about to cut my Throat; there comes a Highway-man to deſtroy both, he calls for my help, we kill him, he cuts not my Throat after all, I am beholding to him I con<g ref="char:EOLhyphen"/>feſs; but is this an anſwer to my Ob<g ref="char:EOLhyphen"/>jection, <hi>Then is this Church an Apoſtate Church,</hi> &amp;c. which I have abundantly proved, conſequent to his Opinion to ſay, <hi>You are <g ref="char:V">Ʋ</g>ngrateful.</hi> — and never
+<pb n="76" facs="tcp:34930:39"/>anſwer one of my Arguments; Is this Diſputing? — The Title of my Book ſhews what I deſigned, not a Vindicati<g ref="char:EOLhyphen"/>on of <hi>G. Keith,</hi> againſt all his Citations; no, but to convince <hi>B. C.</hi> of his feeble Arguing about Apoſtacy.</p>
+            <p>In what ſenſe Baptiſm with Water is &amp; is not a <hi>Fundamental;</hi> I ſhall take no notice of an old objection, when my anſwers are not conſidered: Let him read once again my <hi>Reprimand.</hi>
+            </p>
+            <p>Mr. <hi>W Churchman,</hi> you tell, <hi>What care you ſhould take to keep</hi> G Keith <hi>out of your Church:</hi> I pray let him attempt, Firſt to come in: We do not ſee he is in ſuch haſt: you ſay, <hi>You will not ſo ca<g ref="char:EOLhyphen"/>ſily take Members.</hi> — I grant according to your good old Conſtitution, you ſhould not: We might be agreed about Communicants; but according to the practiſe of ſome Innovators, this Body hath for ſcores of years loſt its Purgative Faculty, and therefore is ſo unhealthy and giddy, by keeping in thoſe Dregs that ſhould be thrown out; you now take and keep Atheiſts, Adul<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>rs, Swearers, Ignorant Perſons, no<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> viſibly ſuch: thus is its Diſ<g ref="char:EOLhyphen"/>cipline
+<pb n="77" facs="tcp:34930:39"/>corrupted as well as Doctrine, for its Doctrine <hi>it is one of the beſt Churches upon Earth:</hi> You ask, <hi>Why leave we the Church of</hi> England? I af<g ref="char:EOLhyphen"/>firm we cannot find it, you have left it, as I have proved in my <hi>Reprim<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, clearly, fully, accordantly,</hi> which you reply nothing too, and I love not <hi>Ean<g ref="char:EOLhyphen"/>dem Cantilenam.</hi>
+            </p>
+            <p>Well, <hi>The Presbyterians Perſecuted in</hi> New England, ſay you, Whom? <hi>Blaſ<g ref="char:EOLhyphen"/>phemers of Chriſt, Curſers of Magiſtrates in the Streets, Falſe Prophets,</hi> &amp;c. Obj. <hi>In</hi> Scotland <hi>now:</hi> What? ſuch as were found in <hi>Popiſh Cabals,</hi> that ſay, <hi>Their Intereſt and Religion is concern'd in the bringing in of K.</hi> James <hi>again:</hi> But your Church early Perſecuted B. <hi>Hooper</hi> for not wearing a Surplice, who honeſtly condemas all <hi>Symbolical Humane Cere<g ref="char:EOLhyphen"/>monies in the worſhip of God,</hi> in <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Pre<g ref="char:EOLhyphen"/>face to his Savory Expoſition on the propheſie of <hi>Jonah: Fox,</hi> that Glori<g ref="char:EOLhyphen"/>ous Martyrologer, was a Non Con: Famous Mr <hi>C<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>wright,</hi> and many more, ſuch, muſt be involv'd in trouble for a few Popiſh Tri<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ets: Were your <hi>New England <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Saints</hi> ſuch <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="78" facs="tcp:34930:40"/>theſe? Are your now Martyrs taken up and <hi>ſent to Goal, for being in a Corpo<g ref="char:EOLhyphen"/>ration, or within</hi> 5 <hi>miles of it?</hi> Ruin'd <hi>for not coming to their Communion?</hi> &amp;c. It is not the Suffering, but the Cauſe, that makes the Martyr, for when <hi>Chriſt</hi> was crucified, two Theeves were cruci<g ref="char:EOLhyphen"/>fied with him.</p>
+            <p>Did ever any Presbyterian perſe<g ref="char:EOLhyphen"/>cute as your Brethren? Who counte<g ref="char:EOLhyphen"/>nanced Sham Plots? By whom was <hi>Stephen Colledge Murthered?</hi> Who con<g ref="char:EOLhyphen"/>demaed him and rejoyced at his death? I ſpeak the more freely of him, be<g ref="char:EOLhyphen"/>cauſe I was with him often after his Sentence, and before his Execution: Who believes he came to <hi>Oxon</hi> with a deſign to <hi>ſeiz the King?</hi> What <hi>be,</hi> and <hi>be alone?</hi> It is well known what the Earl of <hi>Angleſey</hi> ſaid: Could my Lord <hi>Howard,</hi> after his Pardon and Diſcove<g ref="char:EOLhyphen"/>ry of another Plot, confirm this? No, he knew nothing of the <hi>Shaftsburian</hi> Plot: Mr <hi>Colledge,</hi> with a ſhower of Tears, ſolemnly proteſted to me, when I beg'd his ſilence if in the leaſt guilty, <hi>I never expect mercy from God, if I was guilty, or know any man to be ſo
+<pb n="79" facs="tcp:34930:40"/>that way:</hi> Such Sham Plots, put ſome on real ones, which indeed were not ſucceſsful, as your Plot was againſt <hi>James</hi> the Second.</p>
+            <p>I dare ſay, you cannot believe it, ſay what you will, <hi>That the Presbyteri<g ref="char:EOLhyphen"/>ans rail'd at much at the Quakers, as the Quakers at them.</hi>
+            </p>
+            <p>Neither can you think the Lords Prayer and Ten Commandments turn'd into verſe by me, ſo bad as you ſay: Pray read, how your Church hath done the Lords Prayer, at the end of the Pſalms, approv'd to be Sung; if mine be <hi>
+                  <g ref="char:V">Ʋ</g>ncouth, Rhime Doggrel, Prophaning of Scripture,</hi> yours much more; ſo I challenge any man to take the ſubſtance and words of the Ten Commandments more exact in one ſtave or eight lines; others approve and more than ſo, but you will not any thing that is mine, and for that reaſon, becauſe mine.</p>
+            <p>I ſuppoſe ſome in <hi>Be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lam</hi> have talk'd better then you, or ſome others yet out of it argued more ſubtilty; I have heard of Mr <hi>Widdows,</hi> famous for a Tract of Natural Philoſophy, that be<g ref="char:EOLhyphen"/>ing
+<pb n="80" facs="tcp:34930:41"/>heard to make a great noiſe in ſuch a place, ſome came to him and askt him what it meant? <hi>The Devil,</hi> ſaid he, <hi>hath appeared to me, and told me, be could prove I could not be ſaved; I told him be was a Lyar from the beginning, and would be ſo to the end: The Devil be<g ref="char:EOLhyphen"/>gan Syllogiſtivally, He whoſe name is not written in the book of Life, cannot be ſaved, but thy name is not written in the book of Life,</hi> Ergo <hi>thou carſt not be ſaved; I told him,</hi> ſaid he, <hi>my name was written in the book of Life, and therefore I denyed the minor: ſo the Devil went on, The Scriptures is the book of Life, but thy name is not written in the Scriptures,</hi> Ergo, <hi>thy name is not written in the book of Life: I denyed,</hi> ſaid he, <hi>the minor again, and told him my name was written in the Scripture, he asked me where, I told him,</hi> Honour them that are <hi>Wid<g ref="char:EOLhyphen"/>dows: indeed there is my name</hi> Widdows, <hi>ſo I laſted the Devil, and he is gone.</hi>
+            </p>
+            <p>Were you in ſuch an Academy, or amongſt ſuch Collegiates, as you phraſe it? perhaps you might hear things more Ingenious with your Ravings than now we do.</p>
+            <pb n="81" facs="tcp:34930:41"/>
+            <p>How is it you have not a word to ſa<g ref="char:EOLhyphen"/>vour the Quakers Propheſies? Is it be<g ref="char:EOLhyphen"/>cauſe you have ſuch in your Church? <hi>Ariſe ap</hi> Even, that mad blaſphemous Prophet: Was it before the VVars, that a Parſon prayed, <hi>Confound all the Enemies of thy Clearch and People,</hi> a vi<g ref="char:EOLhyphen"/>olent cough took him, when over, he thought he was in that part of the Pul<g ref="char:EOLhyphen"/>pit Prayer for the Prelates, and ſo went on, <hi>By what Names or Titles ſoever they be Dignified, whether the Moſt Re<g ref="char:EOLhyphen"/>verend the Arch-Biſhops, the Right Re<g ref="char:EOLhyphen"/>verend the Biſhops, and all inferiour Prieſts and Deatons.</hi>
+            </p>
+            <p>You a Defender of the Church of <hi>England!</hi> and take no notice of the <hi>Caſſandrian Articles, Non Reſiſtance, Bowing to the High Altar,</hi> not indeed, <hi>Book of Sports now;</hi> thank our Meet<g ref="char:EOLhyphen"/>ings: Deſire ſome one to anſwer for you, ſeeing you cannot for your ſelf.</p>
+            <p>Now Sir, you would let the world know you have read more then <hi>Cato</hi>'s Verſes, perhaps the Sentences under, for you bring us Noble Apotheigems.</p>
+            <q>
+               <l>In ipſo limine titubare outinoſunt eſt</l>
+               <pb n="82" facs="tcp:34930:42"/>
+               <l>Nullum reprebenderis vitii, cujus ipſe queas reprebendi.</l>
+               <l>Faedares invidia eſt, et Authori inter<g ref="char:EOLhyphen"/>dum pernicioſa.</l>
+               <l>Ex me diſces, quidingenui homines ſer<g ref="char:EOLhyphen"/>re non poſſunt.</l>
+            </q>
+            <p>O rare diſcoveries! ſuch as a Parſon ſaid, <hi>Amor res eſt bona, as St.</hi> Auſtin <hi>ſaith:</hi> Perhaps you would convince me, that you have yet your Grammar by you, but all will not do:
+<q>Inſipientes eſt diſcere non putarem, <hi>&amp;c.</hi>
+               </q>
+            </p>
+            <p>Well, <hi>Eris mihi magnus Apollo,</hi> is right.</p>
+            <p>
+               <hi>De mortuis nil niſi bonum,</hi> and all that follows it, was anſwer'd in my <hi>Vindic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ae</hi> and <hi>Reprimand</hi> too, therefore I ſhall not anſwer now: Only, Are not thoſe you Revile every <hi>30th</hi> of <hi>Ja<g ref="char:EOLhyphen"/>nuary,</hi> Dead? VVas not Dr. <hi>Owen</hi> Dead? who never ſwore to <hi>Richard Cromwel,</hi> as <hi>Oliver,</hi> his ſon, lately aſ<g ref="char:EOLhyphen"/>ſured me: If I muſt, I will produce the teſtimony of Dr <hi>Goodwin,</hi> Mr <hi>Jen<g ref="char:EOLhyphen"/>kins,</hi> about <hi>Evangeliſta Quintus;</hi> and alſo of Mr <hi>Sydrack Symſon,</hi> Dr <hi>Sander<g ref="char:EOLhyphen"/>ſon</hi> and many others, whoſe little fin<g ref="char:EOLhyphen"/>ger was thicker than my Loyns: We
+<pb n="83" facs="tcp:34930:42"/>are better reconcil'd than you think for, except a few men that talk as you write. You tell me of one that ſaid of me, <hi>I was fit for</hi> Bedlam, but <hi>it was as the Quakers ſay,</hi> Good Company.</p>
+            <p>Mr <hi>Baxter</hi> was a Prodigee for natural and acquired Accompliſhments, I never doubted, only he wanted the culture of better Education; he was a grave Man, of a ſober life, full of life and mo<g ref="char:EOLhyphen"/>tion, a hard Student, very Zealous, and of a Publick Spirit, one of the graveſt Preachers upon Earth, which pleas'd me well; and I more believe he was a Good Man, than that <hi>Origen</hi> or <hi>Ter<g ref="char:EOLhyphen"/>tullian</hi> were ſo.</p>
+            <p>
+               <hi>But the Quakers will</hi> (ſay you) <hi>take Advantage of my compariſon between Baxterianiſm and Quakeriſm:</hi> that I ſuppoſe pleaſeth you, why complain you if ſo? but others will ſee where they are going; whoſe Cure I hope and ſee, and could tell of great inſtan<g ref="char:EOLhyphen"/>ces of Great Men already, were it con<g ref="char:EOLhyphen"/>venient; I expect no cure of Quakers when others made a compariſon be, tween <hi>Baxter</hi> and <hi>Bellermine:</hi> N<g ref="char:EOLhyphen"/>o doubt Papiſts triumpht, What then Proteſtants Reformed.</p>
+            <pb n="84" facs="tcp:34930:43"/>
+            <p>Becauſe we are often twitted about ſome mens expreſing themſelves in theſe points, particularly Mr. <hi>S<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ph<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ard;</hi> I declare I am well aſſured, that the <hi>Sin<g ref="char:EOLhyphen"/>cere Convert</hi> was never wrote by him, he gave this under his own hand to Mr. <hi>Giles Fermin,</hi> and told him, <hi>He never ſaw it but once, and never deſired to ſee it more;</hi> this Mr. <hi>Fermin</hi> in cenſuring that Book, and Mr. <hi>Baxter</hi>'s <hi>Saints Reſt</hi> and other Tracts, with great depth of judgment hath told the world I alſo with them, diſown Dr. <hi>Criſp</hi>'s wild, unſafe, unſound expreſſions, and as it is a trouble to me, ſo it is to others, particularly ſome Worthy Congrega<g ref="char:EOLhyphen"/>tional. Divines, that ſome men, who ſeem to plead our cauſe, have dared to be his Advocates: How odious is it to hear ſome men, when reproved for idle-walks about buſineſs Lords Days, to ſay, <hi>Jeſus Chriſt hath kept the Sabbath for me,</hi> &amp;c. and then cite Dr. <hi>Criſp;</hi> why do not ſuch ſay, <hi>Jeſus Chriſt hath kept the ſixth ſeventh &amp; eighth Command<g ref="char:EOLhyphen"/>ment for them,</hi> and therefore they may Kill, Commit Adultery and Steal; ſuch may as well ſay, <hi>Jeſus Chriſt</hi> entered
+<pb n="85" facs="tcp:34930:43"/>into Heaven for them, and that is enough, tho they never go there; we are content with Mr. <hi>Bolton</hi>'s way for Diſtreſſed Conſciences, Dr. <hi>Sibbs</hi> and others, without the Doctor's Wild Phraſes.</p>
+            <p>But O wonderful! you have ſome verſes out of <hi>Ovid</hi> too, but ſtill miſtaken</p>
+            <p>
+               <hi>Quo me fixit amor, quo me vehemen<g ref="char:EOLhyphen"/>tuis uſſit.</hi>
+            </p>
+            <p>Whether the Printers miſtake or yours, is a query with me, for the next verſe which muſt be yours not his, ſhews what you are.</p>
+            <p>
+               <hi>Hei mihi quod Amor non ſit Medicabi<g ref="char:EOLhyphen"/>lis Herbis.</hi>
+            </p>
+            <p>This ſtrongly proves what you ſay, <hi>Fools will be medling;</hi> I ſuppoſe you learned it not out of <hi>Obid,</hi> but your Grammar, at the end of Syntaxis; look, if you have it, you ſhall find it thus.</p>
+            <p>
+               <hi>Hei mihi, quod nullis Amor eſt medi<g ref="char:EOLhyphen"/>cabilis Herbis</hi>
+            </p>
+            <p>Thou art not able to ſcan a verſe is evident, that took <hi>Quod—a</hi> to be a ſpondee, when both ſhort; now how
+<pb n="86" facs="tcp:34930:44"/>might I triumph had I but the tithe or thy Brutallity.</p>
+            <p>Seeing you love <hi>Cato</hi> ſo well, I will direct to ſome choice verſes, and ſui<g ref="char:EOLhyphen"/>table ones too, as well as I can remem<g ref="char:EOLhyphen"/>ber, without Books by me.</p>
+            <p>
+               <hi>Virtutem primam eſſe puta compeſcere Linguam.</hi>
+            </p>
+            <p>Had you remembred this and the next,</p>
+            <p>
+               <hi>Rumores ſuge, ne inciipas novi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Au<g ref="char:EOLhyphen"/>ther haberi.</hi>
+            </p>
+            <p>You had never Printed your falſe ſtories of <hi>Box,</hi> &amp;c.</p>
+            <p>
+               <hi>Fiſtula dulce canit, volucrem dum decipit auce<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s.</hi>
+            </p>
+            <p>You flatter the Church of <hi>England,</hi> ſmile in her face and cut her throat.</p>
+            <p>
+               <hi>Nam ſine Doctrina vitu eſt quaſi mor<g ref="char:EOLhyphen"/>tis imago.</hi>
+            </p>
+            <p>There is for you Sir!</p>
+            <p>Now for ſome choice Sentences in Proſe (<hi>Eraſmus</hi> if you have learn'd ſo for) inſtead of your dullones.</p>
+            <p>
+               <hi>Si male dixeris pejus Audies:</hi> That you deſerve tho not have.</p>
+            <p>
+               <hi>Bate ſapi<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>, et Quercus concionantur.</hi>
+            </p>
+            <pb n="87" facs="tcp:34930:44"/>
+            <p>There is for you and the People; now for his Eccho's</p>
+            <p>
+               <hi>Quid agunt, qui ambiunt Sacerdotium? Otium, non felix ſi boni Literis?</hi> Eris.</p>
+            <p>Now for ſome Proverbs, <hi>Ne ſutor ultra Crepidam:</hi> Had <hi>G. Fox,</hi> the poor Shoomaker, and you, thought of it, he had not ſet up for a Preacher, nor you for a Poet.</p>
+            <p>
+               <hi>Ante victoriam canis Triumphum;</hi> be ſure play the fool no more that way: <hi>Omnium borarnm bomo:</hi> for the Church of <hi>England</hi> and the Quakers, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the ſame time too? There is your m<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> for you: <hi>Aſinus ad Lyram:</hi> W. C. at the Poets.</p>
+            <p>Now I have ſtockt you, How often will you throw out theſe ſayings? I have read them in <hi>Eraſmas Adag.</hi> and elſe where.</p>
+            <p>You are coming on as a precious Youth among Friends; <hi>Sam: Fiſher,</hi> or <hi>G. Fox</hi> cannot go beyond you for Lying, in loathſome phraſes, and hom<g ref="char:EOLhyphen"/>ſpun Sentences: Suppoſe I ſhould, in your words, charge you as falſly as you me, Forty times, <hi>about</hi> Box <hi>or the Mad<g ref="char:EOLhyphen"/>houſe,</hi> &amp;c. would you not (and all the
+<pb n="88" facs="tcp:34930:45"/>world with you) ſay, <hi>I was a moſt Im<g ref="char:EOLhyphen"/>pudent Rogue:</hi> Suppoſe I ſhould ſay,</p>
+            <p>
+               <hi>You crackt brain; Mad man, in no degree</hi> Compis Mentis; <hi>you meaſure your own Cornby anothers Buſhel</hi> (Lear<g ref="char:EOLhyphen"/>nedly Expreſt) <hi>You Car, you Yelping Cur, you make my worſhip ſmile;</hi> remem<g ref="char:EOLhyphen"/>ber the Proverb about your charge of Amorous Paſſions, <hi>&amp;c.</hi> the old woman had never ſought her Daughter in the Oven, had ſhe not been there her ſelf: Remember how you were condemned for an Aſſaſſinator, and are ſhortly <hi>to be hanged: You got looſe lately from a Mad-houſe, remember what you endured there:</hi> You were whipt about <hi>London</hi>-ſtreets for cutting Purſes, as all know.</p>
+            <p>You Dunce and Blockhead, that write of Latin in Proſe and Verſe, and underſtand not a ſentence of either: <hi>You deſerve to have your bones broken:</hi> Do you hear? <hi>Goodman Gooſe, Good<g ref="char:EOLhyphen"/>man Woodcock, you ought to be thankful that I am ſo favourable to you:</hi> Away you <hi>Blockhead,</hi> to talk againſt the Diſ<g ref="char:EOLhyphen"/>ſenters; <hi>I could anſwer you if I ſaw fit; you deſerve a kick o'th'</hi> —</p>
+            <p>Or ſuppoſe my Book bore this Title,</p>
+            <pb n="89" facs="tcp:34930:45"/>
+            <p>
+               <hi>The</hi> London <hi>Wiſe-aker, Crack-brain'd Apoſtate maker, proved an Apoſtate, about his Numſeul, being a joco Satyrical return to a tale of a Tub, emitted by a Reverend Conformiſt:</hi>
+            </p>
+            <p>How ſhould I expoſe my ſelf inſtead of you, as you have done your ſelf in ſtead of me?</p>
+            <p>Who ſhall believe ſuch ſhameleſs infamous Libellers, as B. C. and W. C. Brethren in Iniquity? Had you ſerved ſome Men ſo, they would have ruin'd you both; but you have done it your ſelves, as to your Reputations, <hi>&amp;c.</hi>
+            </p>
+            <p>I adviſe you read a Book over before you anſwer it, and if you have not ſo much wit as to ſpeak ſenſe, have ſo much wit as to be ſilent.</p>
+            <p>The great Dean, <hi>Thompſon</hi> of <hi>Briſtol,</hi> I remember once in the Church, asked a Boy, before all the Congregation:</p>
+            <p>Queſt. <hi>Who made the Catechiſm, call'd</hi> Man's Chief End?</p>
+            <p>
+               <hi>Anſw.</hi> A company of Perjur'd Preſ<g ref="char:EOLhyphen"/>byterians.</p>
+            <p>Queſt. <hi>What did I do with one of thoſe Catechiſms that that Prodigal Fellow gave?</hi> (That was <hi>Trepidantium Malleus.</hi>)</p>
+            <pb n="90" facs="tcp:34930:46"/>
+            <p>
+               <hi>Anſw.</hi> You tore it in pieces, and trampled it under your feet: <hi>(He did ſo in the open ſtreet.)</hi>
+            </p>
+            <p>Queſt. <hi>What ſay they of it?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Oh that it is a moſt Heavenly Piece, <hi>&amp;c.</hi>
+            </p>
+            <p>Queſt. <hi>But what ſay you?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> They tell of the Trinity: — Diſtinguiſh between Juſtification and Sanctification, <hi>&amp;c.</hi>
+            </p>
+            <p>A Curate of his Preached on the <hi>30th.</hi> of <hi>January,</hi> on that Text, <hi>He ſtilleth the Madneſs of the People:</hi> On went he to work, to prove, <hi>The Peo<g ref="char:EOLhyphen"/>ple of</hi> England <hi>were a mad People, in that they choſe mad Repreſentatives to ſit in Parliament; and he would prove they were Mad, in that they voted againſt the Succeſſion of his Royal Highneſs the Duke of</hi> York; <hi>in that they ſent for and com<g ref="char:EOLhyphen"/>mitted to Priſon his Majeſty's beſt Sub<g ref="char:EOLhyphen"/>jects, particularly one now preſent</hi> (<hi>Mr.</hi> Thomſon) &amp;c. <hi>But,</hi> ſaid he (as you to your Readers) <hi>You will ſay, this is a mad diſcourſe; if</hi> I <hi>am Mad,</hi> ſaid he, <hi>I am ſure you cannot ſay as</hi> Feſtus <hi>to</hi> Paul, <hi>Much Learning hath made me ſo; the People ſmiled, and ſaid, No, they
+<pb n="91" facs="tcp:34930:46"/>would clear him there.</hi> You Sir, write like one, if you are ſuch, I alſo, and all that read your book, cannot but clear you too in that point.</p>
+            <p>It is too large here to tell the world of the manner of Mr. <hi>Keith</hi>'s Convicti<g ref="char:EOLhyphen"/>ons, of a Meeting in <hi>England,</hi> in <hi>Pen<g ref="char:EOLhyphen"/>ſylvania,</hi> &amp;c. he hath done it.</p>
+            <p>Now, <hi>That it cannot be charged on him, That ever he denyed Chriſts Body in Hea<g ref="char:EOLhyphen"/>ve<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, &amp;c. which the others did;</hi> &amp; <hi>Curtis</hi> in <hi>Redding</hi> now ſtill doth, <hi>Owns no Chriſt, nor Heaven nor Hell without him,</hi> &amp;c.</p>
+            <p>Can it be imagin'd, <hi>W. Penn</hi> and <hi>G. Whitehead</hi> had not appear'd, when <hi>G. Keith</hi> call'd a Meeting at <hi>Turners-Hall,</hi> had they not known they were guilty? How many vain pleas were there to excuſe their Non-Appea<g ref="char:EOLhyphen"/>rance?</p>
+            <p>I forgive you from the heart, for theſe Abuſes; but were I Quaker, and you had ſo abuſed me in Print, perhaps I had made my <hi>Fleſhly Arm</hi> to have ſmitten thy <hi>Outward Man.</hi>
+            </p>
+            <p>I thank you for the kindneſs you have done me, Slander is ſometime the greateſt, that makes all, even Enemies,
+<pb n="92" facs="tcp:34930:47"/>to Pity, and Pity paves the way for Love: and I ſuppoſe, your ſtory about the Presbyterians, &amp; the Lords Prayer, no one will believe for my ſake; they that object againſt the uſe of it ſay, what I ſuppoſe you cannot anſwer.</p>
+            <p>It was made under the Legal Diſ<g ref="char:EOLhyphen"/>penſation; that is, when Circumciſi<g ref="char:EOLhyphen"/>ons Sacrifices, <hi>&amp;c.</hi> were in force: no<g ref="char:EOLhyphen"/>thing in it is explicitly asked in the name of Chriſt; if it be the Laudable cuſtome of all the Churches to conclude a Prayer, or Grace, if never ſo ſhort, with a <hi>Through Jeſus Chriſt our Lord:</hi> Is this form proper for us now? <hi>Hi<g ref="char:EOLhyphen"/>therto you have asked nothing in my name,</hi> (implicitly) <hi>ſure, what you ſhall ask the Father in my name</hi> (explicitly) <hi>you ſhall receive; after this manner pray you,</hi> Ties to things, not words; Say thus to ſuch a man, ſaith the Maſter to the Servant, He doth his buſineſs, though in other words; I will not ſay, whe<g ref="char:EOLhyphen"/>ther the uſe of it be a matter of Liber<g ref="char:EOLhyphen"/>ty which lies between Sin and Duty.</p>
+            <p>Be ſo wiſe as not to <hi>Talk of your Churches kindneſs;</hi> I was once to be Tryed on the 35th of <hi>Elizabeth;</hi> one
+<pb n="93" facs="tcp:34930:47"/>was then queſtioned for ſaying, <hi>the Bible was good for nothing but to make men humourſome, that he received the Sacrament in</hi> Spain <hi>as well as at</hi> Briſtol, <hi>where they pleaſed for him; that the Com<g ref="char:EOLhyphen"/>municants in their Church, lookt like a company of Geeſe that were to be cram'd; that he had nothing to do at Church but to ſee fair Women;</hi> when this was heard; many were in a rage for queſtioning this Gentleman about ſuch things as theſe, this was no Fanaticiſm, and believed that it was Spite, not Zeal, in their Brethren, that put ſome on com<g ref="char:EOLhyphen"/>plaints, which they found true.</p>
+            <p>Well, Mr. <hi>Jacobite</hi> (for all obſerve you deny not this, though you do your being a Church Arminian or Lauden<g ref="char:EOLhyphen"/>cian) I pray remember what your friend Mr. <hi>Penn,</hi> wrote to <hi>Penſylvania</hi> of Mr. <hi>Keith.</hi>
+            </p>
+            <p>
+               <hi>I am ſorry any ſhould quarrel with Honeſt and Learned</hi> G. Keith; <hi>my Love to him, let him enjoy his Principles; he ſhall want no encouragement from me; for I love his Spirit, and honour his Gifts, and peculiar Learning, Tongues, Mathe<g ref="char:EOLhyphen"/>maticks and Platonick Studies;</hi> yet to
+<pb n="94" facs="tcp:34930:48"/>pleaſe others, Mr. <hi>Penn</hi> play'd the Proteus, and Excommunicated him in <hi>London,</hi> with ſuch Zeal or Fury, that he ſaid, He knew not whether he <hi>Sate, Stood,</hi> or <hi>Kneeled;</hi> yet had ſo much wit not to propheſie againſt him, as he blaſphemouſly and wickedly did againſt others, which came not to paſs, there<g ref="char:EOLhyphen"/>fore Mr. <hi>Whitehead</hi> hath done that in theſe words,</p>
+            <p>
+               <hi>Thus ſaith the Lord, Thou haſt poured out great reproach and contempt upon my Servants and People, I will aſſuredly pour out great contempt and confuſion up-thee.</hi> Yet we hope he will go to the Grave in Peace, as did <hi>Thomas Hicks.</hi>
+            </p>
+            <p>You Mr. <hi>Wicked Churchman,</hi> who are ſuch a Lying Hiſtorian, cannot you ſet up too for a Lying Prophet, and be talkt of as ſuch, with Mr. <hi>Penn,</hi> and Mr. <hi>Whitehead,</hi> your dear Friends?</p>
+            <p>If it be objected by my Readers, why I have not been leſs facetious in dealing with my Adverſaries, I have anſwer'd to it in other Books, and ſhall only add, <hi>Some think to give al<g ref="char:EOLhyphen"/>ways grave anſwers to ridiculous Perſons and Things, is to make the anſwer ridicu<g ref="char:EOLhyphen"/>lous too.</hi>
+            </p>
+            <pb n="95" facs="tcp:34930:48"/>
+            <p>Well, Sir, To draw to a cloſe, Whatever bad Properties I have (too many) ſome ſay I have this good one, <hi>To be eaſily Reconciled.</hi>
+            </p>
+            <p>If we fall out, we muſt fall in again, I know no other Remedy amongſt Men, unleſs thoſe that by a figure we call ſo.</p>
+            <p>If you pleaſe to come to my Lodg<g ref="char:EOLhyphen"/>ings, I am plain without a comple<g ref="char:EOLhyphen"/>ment, you go no where where you can be more welcome; and the ſubject of our diſcourſe you ſhall chooſe, not I; an Amicable Conference or Silence about theſe things as you pleaſe: I have often ſaid, It is not falling out that doth ſo much miſchief in the world (for that is to moſt unavoidable) but not falling in again.</p>
+            <p>If you ſignifie your Reconciliable Temper (for you ſeem to be too face<g ref="char:EOLhyphen"/>tious to be malitious) be pleas'd to let me know <hi>when, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>here</hi> and <hi>with whom,</hi> I may wait upon you and kiſs your hand. <hi>Anger,</hi> ſaith <hi>Solomon, Reſteth in the bo<g ref="char:EOLhyphen"/>ſom of Fools: I</hi> am not in the leaſt di<g ref="char:EOLhyphen"/>ſturbed by what you have done againſt your ſelf, and for me Eventually.</p>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb n="96" facs="tcp:34930:49"/>
+            <head>Poſtſcript.</head>
+            <p>SINCE this Book went to the Preſs, Mr. <hi>Keith</hi> hath witten a <hi>Juſt Vin<g ref="char:EOLhyphen"/>dication;</hi> and his long promis'd and long lookt for Retractions are now in the Preſs, and to them I refer <hi>W. C.</hi> and his Friends the Quakers. I declare I never read, nor never will, Mr. <hi>Keith</hi>'s former Books, nor diſpute what he meant by this word and that; for I ſtand by him no farther than he by the Old, though late Exploded Doctrines of Chriſtianity: The Au<g ref="char:EOLhyphen"/>thor of the <hi>Snake in the Graſs,</hi> this day hath Learnedly appeared in his Vindi<g ref="char:EOLhyphen"/>cation, againſt Mr. <hi>Ellwood</hi> (a Quaker) The Title of this Maſculine Tract, is <hi>Satan Diſrob'd,</hi> where he tells us, Im<g ref="char:EOLhyphen"/>puted Righteouſneſs, when examin'd, was In putted Righteouſneſs: <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Men need not ſeek to</hi> Jeruſalem <hi>to Chriſt Blood,</hi> Quakers have Printed, <hi>Ellwood</hi>
+               <pb n="97" facs="tcp:34930:49"/>ſays, <hi>it was a miſtake of the Printer too,</hi> for whoever did go there to ſeek his Natural Blood ſhed; he ſays, they con<g ref="char:EOLhyphen"/>demn them that plead for an <hi>Outward Sanctification:</hi> Who of us ever ſaid, Sanctification was an outward thing: a great Preacher among them no <hi>Jo.</hi> 14 ſaid, <hi>In my Fathers houſe are many</hi> Manchets, he applied it <hi>White-bread, Fine Proviſion was in God's Houſe:</hi> yet all was by Inſpiration: One Printed, ſuch a Friend was <hi>Meeker than</hi> Moſes, <hi>Stronger than</hi> Sampſon, <hi>Wiſer than</hi> Solo<g ref="char:EOLhyphen"/>mon, <hi>more Patient than</hi> Job, <hi>Harmleſs and Innocent as</hi> Chriſt <hi>himſelf;</hi> That ſome pretended to come beyond the <hi>Outward Chriſt, or Jeſus:</hi> That <hi>Iſa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c Pennington</hi> wrote to the Jew; and ne<g ref="char:EOLhyphen"/>ver names the Outward Chriſt, but the Light within: That they have condemned going beyond <hi>Yea</hi> and <hi>Nay,</hi> and atteſting God to any thing, and made ſuch things Oaths, yet now have conſented to this Form, on the Parlia<g ref="char:EOLhyphen"/>ments giving them this favour, <hi>In the Preſence of Almighty God, the Witneſs of what I ſay: As the Lord Liveth,</hi> they ſaid was an <hi>Oath,</hi> yet denyed, <hi>W. Penn</hi>
+               <pb n="98" facs="tcp:34930:50"/>ſwore, when he ſaid, <hi>As ſure as the Lord Liveth,</hi> becauſe the word <hi>ſure</hi> was added, which made it the Higher: Read <hi>p</hi> 45, 46. about <hi>Penn</hi>'s Prophe<g ref="char:EOLhyphen"/>ſie of <hi>Thomas Hicks,</hi> what Lyes and Folly was uſed to ſecure Mr. <hi>Penn</hi> from being a Falſe Prophet, which no man can do, and this will be a ſtain and curſe on his name: He names <hi>T. Curtis</hi> and others, that deny, or will not own, what <hi>Penn</hi>'s followers are forced to ſay after Mr. <hi>Keith.</hi>— This Ingeni<g ref="char:EOLhyphen"/>ous Author (on whom our Conform<g ref="char:EOLhyphen"/>ing Epiſcoparian flings dung as well as on me (became once more an Advo<g ref="char:EOLhyphen"/>cate for Mr. <hi>Keith,</hi> who is his Intimate and Correſpondent, <hi>That nothing but Conſcience ind<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ed him to this Change, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> being againſt his intereſt in the World,</hi> &amp;c. They tryed Mr. <hi>Keith</hi> in <hi>Penſilvania</hi> for his Life, about his Doctrine, and no doubt had put him to Death, had not his Majeſty at the nick of time ſent o<g ref="char:EOLhyphen"/>ver a New Goverrour, <hi>W. Penn</hi> then Abſconding (the world too well <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ows for what) they there ſent out warrants to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Printers and P<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>li<g ref="char:EOLhyphen"/>ſhers of Books againſt them. He tells
+<pb n="99" facs="tcp:34930:50"/>how Mr. <hi>Pennyman</hi> left the Quakers becauſe they would not in <hi>London</hi> pro<g ref="char:EOLhyphen"/>ceed againſt Friends for <hi>Lying, De<g ref="char:EOLhyphen"/>ceit, <g ref="char:V">Ʋ</g>ncleanneſs,</hi> that was fully proved againſt them, <hi>whilſt they would continue in the <g ref="char:V">Ʋ</g>nity:</hi> He proves <hi>Creſſius</hi> the Dutchmans Hiſtory of the Quakers ve<g ref="char:EOLhyphen"/>ry lame and defective, as about <hi>Bur<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oughs</hi>'s Sufferings, when the quite con<g ref="char:EOLhyphen"/>trary was known, that learned Man was too credulous and believed their Lyes and publiſht them: The Whore<g ref="char:EOLhyphen"/>doms of <hi>Arcler</hi> proved, for which he <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed, and here received, read in that Book.</p>
+            <p>I juſtifie the late hand of God on my mind and Body, after many years eaſe a both: But was <hi>Spira</hi> mad? Was Mr. <hi>Rogers</hi> of this City ſo? Mr. <hi>Tra<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>roſs</hi> of <hi>Cornwal</hi> who pin'd away for a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ime? to name no others: Such as <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. C.</hi> and <hi>W. C.</hi> who Lye, <hi>&amp;c.</hi> as if <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſt feeling, are not ſo ſafe as <hi>Spira,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f whom Mr. <hi>Perkins</hi> hath ſpoken fa<g ref="char:EOLhyphen"/>vourably, and given weighty reaſons, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d Mr. <hi>Baxter</hi> more in his <hi>Chriſtian Directory;</hi> no Scoffers know what lie between them and their Graves: A
+<pb n="100" facs="tcp:34930:51"/>tempeſtious winds ariſe on a ſudden on Marriners, who juſt before were in a Calm, and (it may be) at their Muſick, which may not only <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſs them, but caſt them away, and none can allay, but he whom the Winds and the Seas obey; ſo may an inward Tempeſt do. — Re<g ref="char:EOLhyphen"/>member that of <hi>David, Search me O God and know my heart,</hi> &amp;c. and that of <hi>Paul, Examine your ſelves, whether you be in the Faith,</hi> &amp;c. for the beſt may ſay as <hi>Heman, I am even diſtracted through thy Ferrors;</hi> yet was he no <hi>Mad Ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>;</hi> None accuſed him of I know not what Impieties; neither doth my Conſci<g ref="char:EOLhyphen"/>ence Accuſe of ſuch idle ſtories, that thoſe men and Mr. <hi>Sylveſter</hi> (like an old Quaker) have ſet on foot; none of which I ever ſaw, and they dare not face me: Is their cauſe good? They are Suſpitious Commodities that can<g ref="char:EOLhyphen"/>not bear the Light.</p>
+            <p>It is expected when <hi>Muggleton</hi> is dead his Journal will be Printed alſo, and his Propheſies, as ſome Muggleto<g ref="char:EOLhyphen"/>nians tell; yet <hi>Fox</hi> and he damned one another as Falſe Prophets times with<g ref="char:EOLhyphen"/>out number.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
